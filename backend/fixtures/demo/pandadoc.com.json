@@ -1,0 +1,2629 @@
+{
+  "raw": {
+    "success": true,
+    "count": 101,
+    "cache_hit": false,
+    "results": [
+      {
+        "name": "pandadoc",
+        "domain": "pandadoc.com",
+        "description": "Document automation software with built-in electronic signatures, workflow management, and document builder.",
+        "similarity": 1.0,
+        "industries": "Sales Software",
+        "employees": 891.0,
+        "employee_12_months_growth_relative": 10.58,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2013-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": 66.929633,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": "Seed",
+        "gr_business_models": null,
+        "sources": [
+          "seed"
+        ]
+      },
+      {
+        "name": "docusign",
+        "domain": "docusign.com",
+        "description": "DocuSign is a leading company in the electronic signature and digital agreement space, providing a cloud-based platform that allows businesses and individuals to sign documents electronically. This service is crucial for companies looking to enhance their efficiency, security, and mobility in handling agreements. DocuSign serves a diverse range of clients, from small businesses to large enterprises, including notable names like T-Mobile, Unilever, and Salesforce. It also caters to specific sectors such as real estate and government, being FedRAMP authorized to serve U.S. federal agencies.\n\nOperating in the digital transformation market, DocuSign's primary product is its eSignature service, which allows users to sign documents online securely and reliably. Beyond eSignatures, the company offers a suite of applications and integrations designed to automate and streamline the entire agreement process, known as the Agreement Cloud. This includes tools for contract lifecycle management, which helps businesses automate workflows and manage agreements more efficiently.\n\nDocuSign's business model is subscription-based, offering various pricing plans tailored to different needs, from individual users to large enterprises. They also provide free trials to attract new customers. Revenue is generated through these subscriptions, as well as through additional services and integrations that enhance the core eSignature functionality.\n\nThe company is known for its high Net Promoter Score, comparable to industry giants like Apple and Amazon, indicating strong customer satisfaction and loyalty. DocuSign's platform is designed to lower costs, save time, and improve the customer experience, making it a valuable tool for any organization looking to modernize its agreement processes.\n\nKeywords: electronic signature, digital agreements, cloud platform, eSignature, contract management, automation, subscription-based, digital transformation, FedRAMP, customer satisfaction. Founded 22 years ago with 8275.0 employees. Serves B2B,Finance,Government. Income streams: Subscription. in 17 rounds (Stage: secondary_market).",
+        "similarity": 0.72,
+        "industries": "Enterprise Software, Legal",
+        "employees": 8389.0,
+        "employee_12_months_growth_relative": 3.56,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.61
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.21
+          },
+          {
+            "confidence": "High",
+            "country": "Ireland",
+            "percent": 0.09
+          },
+          {
+            "confidence": "High",
+            "country": "Brazil",
+            "percent": 0.09
+          }
+        ],
+        "employee_geography": "United States (61%), Other (21%), Other (18%)",
+        "founded_date": "2003-01-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Post-IPO Financing",
+        "total_funding_usd_million": 1286.7799989999999,
+        "last_round_funding_usd_million": 750.0,
+        "last_round_funding_date": "2025-05-27",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Docfield",
+        "domain": "docfield.com",
+        "description": "Doc Field provides a document and contract management platform that helps businesses streamline their contract and document processes. Their typical customers include organizations in the education, IT & Software, and other industries who are looking to enhance their efficiency, save time, and reduce legal risks by automating and simplifying their document workflow. Doc Field differentiates itself by offering a collaborative platform that enables real-time collaboration, e-signing, and the extraction of valuable data from documents, all of which are designed to improve compliance and generate complex contracts at scale. Founded 6 years ago with 14.0 employees. Serves B2B,Education,Finance. Income streams: Subscription. in 1 rounds (Stage: seed).",
+        "similarity": 0.7,
+        "industries": "Enterprise Software, Legal",
+        "employees": 14.0,
+        "employee_12_months_growth_relative": -18.19,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-03-01",
+        "hq_locations": "Amsterdam, Netherlands",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 1.316822,
+        "last_round_funding_usd_million": 1.316822,
+        "last_round_funding_date": "2022-09-12",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Ironclad",
+        "domain": "ironcladapp.com",
+        "description": "Ironclad, accessible at ironcladapp.com, is a pioneering digital contracting platform designed to streamline and automate the entire contract lifecycle. The company primarily serves legal teams within large enterprises and fast-growing companies, including notable clients like Facebook, Square, and Dropbox. Operating in the legal tech market, Ironclad addresses the inefficiencies and complexities associated with traditional contract management systems.\n\nIronclad's platform is intuitive and user-friendly, enabling legal teams to create, automate, and track contracts seamlessly. Unlike older, cumbersome contract management tools, Ironclad's solution is modern and easy to learn, which helps businesses accelerate high-volume, high-value contracts and implement self-service processes. This efficiency not only reduces bottlenecks but also enhances collaboration and connectivity within legal departments, allowing them to focus on business growth.\n\nThe company's business model revolves around a subscription-based service, where clients pay for access to the platform and its features. This recurring revenue model ensures a steady income stream while providing clients with continuous updates and support. Ironclad also offers long-term partnerships, assisting clients from initial implementation to ongoing optimization of their contract processes.\n\nIronclad makes money by offering various subscription tiers, which may include additional features, integrations, and support levels. This flexible pricing structure allows businesses of different sizes and needs to find a suitable plan, ensuring widespread adoption and customer retention.\n\nIn summary, Ironclad is revolutionizing the way legal teams manage contracts by providing a digital, automated, and user-friendly platform that enhances efficiency and collaboration.\n\nKeywords: digital contracting, legal tech, automation, contract lifecycle, enterprise clients, user-friendly, subscription model, workflow optimization, legal teams, business growth. Founded 11 years ago with 684.0 employees. Serves B2B. Income streams: Commission. in 8 rounds (Stage: series_e).",
+        "similarity": 0.7,
+        "industries": "Legal",
+        "employees": 850.0,
+        "employee_12_months_growth_relative": 31.540000000000003,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.95
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.05
+          }
+        ],
+        "employee_geography": "United States (95%), Other (5%)",
+        "founded_date": "2014-01-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Series E",
+        "total_funding_usd_million": 334.13,
+        "last_round_funding_usd_million": 150.0,
+        "last_round_funding_date": "2022-01-18",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "LegalSifter",
+        "domain": "legalsifter.com",
+        "description": "LegalSifter operates in the legal technology market, providing innovative solutions to streamline the contract review process. The company serves a diverse range of clients, including businesses, legal professionals, and research organizations. LegalSifter's core product leverages artificial intelligence (AI) combined with human expertise to review, edit, and negotiate contracts efficiently. This approach, termed 'Combined Intelligence,' aims to reduce the time and complexity involved in managing contracts, which are crucial documents in global commerce. LegalSifter generates revenue through subscription-based models and service fees, offering its AI-driven tools and expert services to clients seeking to optimize their contract management processes. The company's market includes legal departments, law firms, and organizations involved in extensive contractual agreements. By integrating AI with human oversight, LegalSifter ensures accuracy and compliance, making it a valuable asset for clients looking to enhance their legal operations.\n\nKeywords: AI, contract review, legal technology, Combined Intelligence, subscription model, legal services, contract management, efficiency, compliance, expertise. Founded 12 years ago with 62.0 employees. Serves B2B,Professional Services. Income streams: Commission. in 5 rounds (Stage: series_unknown).",
+        "similarity": 0.7,
+        "industries": "Legal",
+        "employees": 51.0,
+        "employee_12_months_growth_relative": -11.87,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.91
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.09
+          }
+        ],
+        "employee_geography": "United States (91%), Other (9%)",
+        "founded_date": "2013-06-03",
+        "hq_locations": "Pittsburgh, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 12.465,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2023-03-09",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "dropbox_docsend",
+        "domain": "docsend.com",
+        "description": "DocSend operates in the secure document sharing and analytics market, providing a platform that allows users to share documents securely and track engagement in real-time. The company serves a diverse range of clients, including startups, sales teams, and investors, who need to share sensitive documents such as pitch decks, sales materials, and contracts. DocSend's business model is subscription-based, offering various pricing tiers depending on the features and number of users. The platform generates revenue through these subscriptions, which provide access to features like document analytics, eSignature, dynamic watermarking, and data rooms. By offering insights into document engagement, DocSend helps clients make informed decisions and improve their business processes. The company is particularly valuable for fundraising activities, allowing founders to track which investors are engaging with their pitch decks and tailor their follow-up strategies accordingly. \n\nKeywords: secure document sharing, real-time analytics, eSignature, data rooms, dynamic watermarking, fundraising, sales engagement, subscription-based, business efficiency, document tracking. Founded 12 years ago with 25.0 employees. Serves B2B,Finance. Income streams: Subscription. in 4 rounds (Stage: series_unknown).",
+        "similarity": 0.7,
+        "industries": "Marketing",
+        "employees": 125.0,
+        "employee_12_months_growth_relative": 455.17,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2013-01-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 15.3,
+        "last_round_funding_usd_million": 5.0,
+        "last_round_funding_date": "2019-07-30",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Penneo",
+        "domain": "penneo.com",
+        "description": "Penneo is a dynamic company that specializes in providing digital document signing solutions using electronic IDs (eIDs). Founded in 2014, Penneo has quickly established itself as a leader in the digital signature market in Denmark and has since expanded its operations to cover all Scandinavian countries. The company is now eyeing further expansion into other European markets.\n\nPenneo's primary service is enabling businesses to sign documents electronically, which streamlines the signing process, enhances security, and ensures compliance with legal standards. This service is particularly valuable for industries that handle a high volume of paperwork and require secure, legally binding signatures, such as finance, legal, real estate, and human resources.\n\nThe company's business model is based on a Software-as-a-Service (SaaS) approach. Clients subscribe to Penneo's platform, paying a recurring fee to access its digital signing tools and services. This model provides a steady revenue stream and allows Penneo to continuously update and improve its offerings.\n\nPenneo's clients range from small businesses to large enterprises, all of which benefit from the efficiency and security of digital document signing. By eliminating the need for physical signatures, Penneo helps its clients save time and reduce costs associated with printing, mailing, and storing paper documents.\n\nIn summary, Penneo is a forward-thinking company that leverages technology to simplify and secure the document signing process for businesses. Its SaaS model ensures a reliable income while providing clients with a valuable service that enhances their operational efficiency.\n\nKeywords: Digital Signatures, eID, SaaS, Document Signing, Secure, Compliance, Efficiency, Scandinavian Market, Business Solutions, Expansion. Founded 13 years ago with 102.0 employees. Serves B2B,Finance,Professional Services. Income streams: Subscription. in 2 rounds (Stage: series_unknown).",
+        "similarity": 0.69,
+        "industries": "Enterprise Software, Legal",
+        "employees": 79.0,
+        "employee_12_months_growth_relative": -27.33,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Denmark",
+            "percent": 0.83
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.09
+          },
+          {
+            "confidence": "High",
+            "country": "Belgium",
+            "percent": 0.09
+          }
+        ],
+        "employee_geography": "Denmark (83%), Other (9%), Other (9%)",
+        "founded_date": "2012-10-01",
+        "hq_locations": "Copenhagen, Denmark",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 11.887501,
+        "last_round_funding_usd_million": 8.8,
+        "last_round_funding_date": "2022-03-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Yousign",
+        "domain": "yousign.com",
+        "description": "Yousign is a company specializing in electronic signature solutions, designed to streamline approval processes and enhance client interactions. Operating within the digital signature market, Yousign serves a diverse range of clients including businesses, employees, and partners. The company\u2019s core product is an eSignature platform that offers secure and legally compliant electronic signatures, which can be integrated into existing workflows through API integration. This allows businesses to automate their signature processes, thereby speeding up transactions and improving efficiency. Yousign generates revenue through a subscription-based model, offering various pricing tiers based on the number of users and features required. The platform is particularly popular among forward-thinking businesses looking to modernize their agreement processes and provide a superior experience to their stakeholders. \n\nKeywords: eSignature, digital signature, API integration, approval flows, secure agreements, subscription model, business automation, client interactions, legal compliance, transaction efficiency. Founded 12 years ago with 240.0 employees. Serves B2B,Finance. Income streams: Subscription. in 6 rounds (Stage: series_unknown).",
+        "similarity": 0.69,
+        "industries": "Enterprise Software, Legal",
+        "employees": 251.0,
+        "employee_12_months_growth_relative": 5.67,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.96
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "France (96%), Other (4%)",
+        "founded_date": "2013-01-01",
+        "hq_locations": "Paris, France",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 40.761900999999995,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2024-09-23",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "springcm",
+        "domain": "springcm.com",
+        "description": "SpringCM, now part of DocuSign, is a leading provider of document and contract management solutions designed to help businesses streamline their agreement processes. The company operates in the digital transformation market, focusing on electronic signatures and cloud-based agreement management. SpringCM serves a diverse range of clients, including small businesses, large enterprises, and multinational corporations across various industries such as real estate, telecommunications, and consumer goods.\n\nSpringCM's primary business model revolves around offering subscription-based services. Clients pay for access to its suite of tools, which include eSignature solutions, document generation, workflow automation, and secure storage. These tools help businesses reduce costs, save time, and improve the overall customer experience by enabling them to send, sign, and manage agreements digitally from almost anywhere at any time.\n\nThe company makes money through different pricing plans tailored to the needs of various client segments. These plans include eSignature plans, real estate plans, and API plans for developers who want to integrate DocuSign's functionalities into their own applications. Additionally, SpringCM offers other products such as payments, guided forms, and clickwraps, which further enhance its value proposition.\n\nSpringCM's solutions are highly reliable and secure, boasting a 99.99% availability rate with no maintenance downtime. This level of performance ensures that clients can depend on the platform for their critical business processes. The company also provides extensive resources through its Developer Center, enabling clients to implement and customize DocuSign's solutions to fit their specific needs.\n\nIn summary, SpringCM, part of DocuSign, is a key player in the digital transformation space, helping businesses of all sizes manage their agreements more efficiently through its robust, cloud-based solutions.\n\nKeywords: document management, contract management, eSignature, digital transformation, cloud-based, workflow automation, secure storage, subscription services, API integration, business efficiency. Founded 20 years ago with 30.0 employees. Serves B2B. Income streams: Subscription. in 16 rounds (Stage: series_unknown).",
+        "similarity": 0.69,
+        "industries": "Enterprise Software, Legal",
+        "employees": 30.0,
+        "employee_12_months_growth_relative": -5.94,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2005-01-01",
+        "hq_locations": "Chicago, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 110.889,
+        "last_round_funding_usd_million": 25.0,
+        "last_round_funding_date": "2017-02-07",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "LawGeex",
+        "domain": "lawgeex.com",
+        "description": "LawGeex operates in the legal technology market, offering an AI-powered platform designed to automate and streamline the contract review process. The company primarily serves businesses of various sizes, including legal teams and corporate legal departments, aiming to enhance efficiency and compliance. LawGeex's business model revolves around a subscription-based service, where clients pay for access to the platform's features, including automated contract analysis, risk identification, and compliance checks. The platform leverages artificial intelligence to compare contracts against predefined policies and industry standards, ensuring that legal teams can quickly identify potential issues and mitigate risks. By automating these processes, LawGeex helps businesses save time, reduce legal costs, and improve overall contract management. The company generates revenue through subscription fees, which vary based on the level of service and number of users. LawGeex also offers customized solutions for larger enterprises, providing tailored services to meet specific legal needs.\n\nKeywords: AI-powered, contract review, legal technology, compliance, risk mitigation, subscription-based, automated analysis, corporate legal, efficiency, cost reduction. Founded 11 years ago with 17.0 employees. Serves B2B. Income streams: Commission. in 5 rounds (Stage: series_c).",
+        "similarity": 0.68,
+        "industries": "Legal Software",
+        "employees": 12.0,
+        "employee_12_months_growth_relative": -34.84,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2014-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 56.5,
+        "last_round_funding_usd_million": 15.0,
+        "last_round_funding_date": "2021-08-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Armada",
+        "domain": "armada.ai",
+        "description": "Armada.ai operates in the supply chain technology sector, offering a cloud-based platform designed to enhance visibility and collaboration across the supply chain. The company serves a diverse range of clients, including logistics providers, manufacturers, and retailers, who require efficient and transparent supply chain operations. Armada.ai's core product is a Software-as-a-Service (SaaS) solution that integrates with existing technologies, providing real-time analytics and interaction capabilities. This enables all stakeholders in the supply chain to connect, share information, and collaborate seamlessly in a modern, social networking-like environment.\n\nThe business model is subscription-based, where clients pay a recurring fee to access the platform's features and services. Revenue is generated through these subscription fees, as well as potential add-ons for advanced analytics and additional integrations. The market for Armada.ai includes industries heavily reliant on supply chain efficiency, such as manufacturing, retail, and logistics.\n\nArmada.ai's platform offers several key features: real-time visibility into supply chain operations, integration with existing technologies, advanced analytics for data-driven decision-making, and a collaborative environment for all supply chain participants. These features help clients to quickly identify and resolve issues, optimize their operations, and ultimately reduce costs.\n\nKeywords: supply chain, collaboration, visibility, SaaS, cloud technology, real-time analytics, logistics, integration, efficiency, data-driven. Founded 3 years ago with 367.0 employees. Serves B2B,Government,Industrials. Income streams: Subscription. in 4 rounds (Stage: series_unknown).",
+        "similarity": 0.67,
+        "industries": "Engineering and Manufacturing Equipment, Enterprise Software",
+        "employees": 605.0,
+        "employee_12_months_growth_relative": 106.88,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.58
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.35
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.07
+          }
+        ],
+        "employee_geography": "United States (57%), India (35%), Other (7%)",
+        "founded_date": "2022-01-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Series B",
+        "total_funding_usd_million": 524.0,
+        "last_round_funding_usd_million": 230.0,
+        "last_round_funding_date": "2026-05-19",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "LEVERTON",
+        "domain": "leverton.ai",
+        "description": "Leverton.ai is a leading provider of AI-powered data extraction and contract analytics solutions, designed to streamline corporate and legal document management. Leverton's platform leverages advanced artificial intelligence to extract, analyze, and integrate data from complex documents, enabling businesses to make data-driven decisions more efficiently. The company serves a diverse range of clients, including corporations, legal firms, and financial institutions, operating primarily in the corporate and legal sectors. Leverton's business model revolves around offering subscription-based access to its platform, generating revenue through recurring fees for its software services. The platform's key features include compliance with IFRS 16 and ASC 842 standards, invoice reconciliation, lease abstraction, revenue assurance, and due diligence for legal and regulatory compliance. By automating data extraction processes, Leverton significantly reduces the time and effort required for manual data handling, allowing employees to focus on higher-value tasks. The platform also offers customizable dashboards and reports, providing users with actionable insights to improve workflow efficiency and data transparency.\n\nKeywords: AI-powered, data extraction, contract analytics, corporate documents, legal documents, compliance, lease abstraction, invoice reconciliation, revenue assurance, due diligence. Founded 13 years ago with 18.0 employees. Serves B2B,Consumer Products & Retail,Finance,Professional Services. Income streams: Subscription. in 1 rounds (Stage: SERIES A).",
+        "similarity": 0.65,
+        "industries": "Legal Software",
+        "employees": 15.0,
+        "employee_12_months_growth_relative": -15.88,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2012-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Series A",
+        "total_funding_usd_million": 5.58,
+        "last_round_funding_usd_million": 5.58,
+        "last_round_funding_date": "2015-06-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Webdox",
+        "domain": "webdoxclm.com",
+        "description": "Webdox Legal offers Contract Lifecycle Management (CLM) software, which helps in the management and signing of contracts. Their typical customers include companies in various industries that require contract management solutions to streamline their processes, ensure legal compliance, and improve efficiency. Webdox Legal claims to differentiate itself by providing a collaborative platform that connects legal teams and business areas, as well as offering integrations with other tools, support for electronic signatures, and the use of artificial intelligence for contract management. Founded 8 years ago with 175.0 employees. Serves B2B. Income streams: Subscription. in 8 rounds (Stage: series_unknown).",
+        "similarity": 0.65,
+        "industries": "Legal",
+        "employees": 172.0,
+        "employee_12_months_growth_relative": 6.45,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Chile",
+            "percent": 0.59
+          },
+          {
+            "confidence": "High",
+            "country": "Brazil",
+            "percent": 0.2
+          },
+          {
+            "confidence": "High",
+            "country": "Mexico",
+            "percent": 0.11
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.11
+          }
+        ],
+        "employee_geography": "Chile (59%), Brazil (20%), Other (22%)",
+        "founded_date": "2017-10-15",
+        "hq_locations": "Vitacura, Chile",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 11.311,
+        "last_round_funding_usd_million": 1.5,
+        "last_round_funding_date": "2024-09-13",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "documo",
+        "domain": "documo.com",
+        "description": "Documo operates in the digital document management market, focusing on providing secure and efficient paperless solutions. The company offers products like Fax over IP, which allows for secure document delivery, and a simplified signing process to streamline business operations. Documo serves a wide range of clients, including businesses looking to enhance their document workflows and reduce their environmental footprint. The business model is based on a subscription service, where clients pay for access to their suite of digital document tools. Revenue is generated through these subscriptions, as well as potential add-on services and features. The company aims to revolutionize how documents are managed and processed, contributing to environmental sustainability by reducing paper usage.\n\nKeywords: digital documents, secure delivery, paperless, Fax over IP, document management, e-signature, subscription service, business efficiency, environmental sustainability, workflow automation. Founded 10 years ago with 47.0 employees. Serves B2B. Income streams: Subscription. in 4 rounds (Stage: series_unknown).",
+        "similarity": 0.65,
+        "industries": "Security",
+        "employees": 54.0,
+        "employee_12_months_growth_relative": 9.91,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.89
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.11
+          }
+        ],
+        "employee_geography": "United States (89%), Other (11%)",
+        "founded_date": "2014-01-01",
+        "hq_locations": "Wilmington, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 28.999999,
+        "last_round_funding_usd_million": 4.999999,
+        "last_round_funding_date": "2024-06-06",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "ContractPod",
+        "domain": "contractpodai.com",
+        "description": "ContractPodAi is a technology startup that operates in the legal tech market, providing artificial intelligence (AI)-powered contract management solutions. The company's primary product is an intuitive Contract Lifecycle Management (CLM) platform that streamlines the end-to-end contract management process. This platform significantly reduces the time taken to create and sign contracts, with some clients reporting a reduction from 2+ weeks to as little as 10 minutes.\n\nIn addition to the CLM platform, ContractPodAi also offers a legal intake solution that helps corporations and law firms organize their legal intake requests. This solution automates tasks and streamlines intake processes, boosting productivity and turning disorder into organized control.\n\nOne of the key features of ContractPodAi's offerings is Leah, an AI-powered legal assistant. Leah uses Generative AI (GenAI) capabilities to transform how legal services are delivered, helping corporations and law firms be more impactful without compromise.\n\nContractPodAi's business model is likely based on a subscription or usage-based pricing model, where clients pay for the services they use. The company's clients include corporations and law firms that require efficient contract management and legal intake solutions.\n\nThe company also emphasizes the importance of data security and privacy, stating that technical storage or access is strictly necessary for the legitimate purpose of enabling the use of their services and for carrying out the transmission of communication over an electronic communications network.\n\nKeywords: Contract Management, Legal Tech, Artificial Intelligence, Contract Lifecycle Management, Legal Intake Solution, Generative AI, Corporations, Law Firms, Data Security, Subscription Model. Founded 10 years ago with 342.0 employees. Serves B2B,Consumer Products & Retail,Education,Finance,Healthcare,Hospitality & Leisure,Industrials,Professional Services. Income streams: Commission. in 3 rounds (Stage: series_c).",
+        "similarity": 0.63,
+        "industries": "Legal",
+        "employees": 129.0,
+        "employee_12_months_growth_relative": -61.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2012-06-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 170.0,
+        "last_round_funding_usd_million": 115.0,
+        "last_round_funding_date": "2021-09-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Uhura Solutions",
+        "domain": "uhurasolutions.com",
+        "description": "Uhura Solutions operates in the financial technology sector, providing an AI-powered platform designed to automate document-driven processes. The company primarily serves financial institutions, including banks and loan advisors, who need to navigate complex regulations and extensive documentation. Uhura Solutions leverages artificial intelligence to emulate human analysis of documents, enabling quick and accurate data extraction and classification from both digital and scanned documents. This automation significantly reduces the time and effort required for tasks such as loan processing and financial statement analysis, thereby enhancing efficiency and accuracy in back-office operations.\n\nThe business model is based on a low-code AI platform that allows business users with minimal technical expertise to build, deploy, and operate multiple AI-powered solutions at scale. This model enables the company to generate revenue through subscription fees for its platform, as well as through customized solutions for larger clients.\n\nUhura Solutions operates in a market where data is increasingly seen as a valuable asset, and efficient document digitization is crucial. By providing a solution that automates and optimizes these processes, the company addresses a critical need in the financial services industry.\n\nKeywords: AI-powered, document automation, financial services, data extraction, loan processing, back-office efficiency, low-code platform, regulatory compliance, financial technology, document classification. Founded 7 years ago with 12.0 employees. Serves B2B,Finance. Income streams: . in 3 rounds (Stage: seed).",
+        "similarity": 0.63,
+        "industries": "Legal",
+        "employees": 10.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Montenegro",
+            "percent": 0.64
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.36
+          }
+        ],
+        "employee_geography": "Montenegro (64%), United Kingdom (36%)",
+        "founded_date": "2018-06-12",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 2.48,
+        "last_round_funding_usd_million": 1.8,
+        "last_round_funding_date": "2022-04-27",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Everlaw",
+        "domain": "everlaw.com",
+        "description": "Everlaw is a tech startup that operates in the legal technology sector, providing advanced ediscovery software to law firms, corporations, and government agencies. Ediscovery, or electronic discovery, refers to the process in which electronic data is sought, located, secured, and searched with the intent of using it as evidence in a civil or criminal legal case. Everlaw's software simplifies this complex process, allowing legal teams to focus on substantive work.\n\nEverlaw's business model is based on providing a cloud-native technology platform that enables users to quickly find relevant information and discard the rest. The platform uses powerful analytics and machine learning tools to provide near-instant insights from complex ediscovery data. This technology is designed to be user-friendly, enabling legal professionals to easily navigate and use the platform, regardless of their tech-savviness.\n\nIn addition to its ediscovery software, Everlaw also offers tools for comprehensive deposition and trial preparation, as well as tech for faster response in cyber breaches, whistleblower actions, subpoenas, audits, and more. This makes Everlaw a comprehensive solution for legal teams, enhancing their efficiency and productivity.\n\nEverlaw generates revenue by selling its software and services to its clients, which include law firms, corporations, and government agencies at various levels. \n\nKeywords: Legal Technology, Ediscovery, Law Firms, Corporations, Government Agencies, Cloud-Native Technology, Analytics, Machine Learning, Deposition Tools, Trial Preparation. Founded 15 years ago with 494.0 employees. Serves B2B,Government,Professional Services. Income streams: Subscription. in 6 rounds (Stage: series_d).",
+        "similarity": 0.61,
+        "industries": "Enterprise Software, Legal",
+        "employees": 538.0,
+        "employee_12_months_growth_relative": 14.09,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.97
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.03
+          }
+        ],
+        "employee_geography": "United States (97%), Other (3%)",
+        "founded_date": "2010-10-28",
+        "hq_locations": "Oakland, United States",
+        "funding_stage": "Series D",
+        "total_funding_usd_million": 298.60499500000003,
+        "last_round_funding_usd_million": 202.0,
+        "last_round_funding_date": "2021-11-02",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Scrive",
+        "domain": "scrive.com",
+        "description": "Scrive is a company that specializes in digital transformation through electronic signature and identification solutions. Founded in 2010, it established a strong presence in the Nordic market and has since expanded its services globally, catering to businesses of all sizes.\n\nThe company's core offering is a platform that facilitates the automation of agreement workflows. This is achieved through legally binding electronic signatures and integrated electronic identification (eID). Scrive supports various eID methods, ensuring a secure and verifiable signing process. The platform is designed to integrate with other business systems, such as CRMs and HR systems, through APIs, enabling seamless incorporation into existing digital workflows.\n\nScrive operates as a Qualified Trust Service Provider (QTSP) under the EU's eIDAS regulation, which means the electronic signatures provided have the same legal standing as handwritten ones throughout the European Union. This compliance is a key aspect of its business model, as it assures clients of the security and legal validity of their digital transactions.\n\nThe business model is based on providing these digital services to companies looking to digitize their document handling and agreement processes, thereby reducing paper waste, increasing efficiency, and improving the customer experience. Clients range from small businesses to large enterprises across various sectors.\n\nKeywords: electronic signature, digital identification, eIDAS, QTSP, workflow automation, document management, digital agreements, contract lifecycle management, API integration, legal tech Founded 15 years ago with 246.0 employees. Serves B2B,Finance. Income streams: Subscription. in 3 rounds (Stage: private_equity).",
+        "similarity": 0.61,
+        "industries": "Enterprise Software, Legal",
+        "employees": 266.0,
+        "employee_12_months_growth_relative": 9.04,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Sweden",
+            "percent": 0.61
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.28
+          },
+          {
+            "confidence": "High",
+            "country": "Denmark",
+            "percent": 0.11
+          }
+        ],
+        "employee_geography": "Sweden (61%), Other (28%), Other (11%)",
+        "founded_date": "2010-01-01",
+        "hq_locations": "Stockholm, Sweden",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 2.30899,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2020-06-08",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AboveGEM",
+        "domain": "abovegem.com",
+        "description": "AboveGEM Direct Selling Software | Specialize in Growth",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 5.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2012-01-01",
+        "hq_locations": "Santa Clara, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Acceliris",
+        "domain": "acceliris.com",
+        "description": "Acceliris provides professional IT consulting and managed IT solutions for business customers, offering IT service packages, hardware and software provisioning, and cybersecurity assessments. They position themselves as a professional IT consulting and solutions provider and highlight cybersecurity assessment and hardware/software offerings.",
+        "similarity": 0.6,
+        "industries": "Hosting, Security",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2009-01-01",
+        "hq_locations": "Louisville, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AccuTEST Systems",
+        "domain": "accutestsystems.com",
+        "description": "AccuTEST Systems - Pressure Relief Valve Testing Equipment",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 14.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1989-01-01",
+        "hq_locations": "Holland, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Actien",
+        "domain": "actien.eu",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-07-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Adleads",
+        "domain": "adleads.co.uk",
+        "description": "Adleads Ltd - Software Development",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 40.38,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-01-01",
+        "hq_locations": "Kingston Upon Hull, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AduroSys",
+        "domain": "adurosys.com",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 5.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2015-01-01",
+        "hq_locations": "Sunnyvale, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Akuret Solutions",
+        "domain": "akuretsolutions.com",
+        "description": "The cloud-solution to perfect inventory data reliability",
+        "similarity": 0.6,
+        "industries": "Retail and E-Commerce Software",
+        "employees": 12.0,
+        "employee_12_months_growth_relative": 31.2,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-01-01",
+        "hq_locations": "Erie, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Alexis",
+        "domain": "alexishr.com",
+        "description": "AlexisHR is a cutting-edge Human Resource Information System (HRIS) designed to streamline and enhance HR processes for businesses of all sizes. The company operates primarily in the Nordic market and has recently joined forces with Simployer Group, a leader in HR solutions in the region. This partnership aims to leverage Simployer's extensive resources and expertise to further elevate AlexisHR's offerings.\n\nAlexisHR serves a diverse range of clients, from small startups to large enterprises, providing them with a user-friendly and intuitive platform to manage their employee processes. The platform is known for its simplicity, speed, and flexibility, making it easy for businesses to get started and efficiently handle their HR tasks. Key features include employee data management, payroll processing, performance tracking, and compliance management, all accessible through a consistent and uniform API structure.\n\nThe business model of AlexisHR is subscription-based, offering various pricing tiers to cater to different business needs and sizes. This model ensures a steady revenue stream while providing clients with full access to all premium HR features without hidden costs. The company emphasizes affordability, aiming to deliver high-quality HR solutions at competitive prices.\n\nAlexisHR generates revenue by charging clients a recurring fee for access to its platform. This fee varies depending on the number of employees and the specific features a client opts for. By offering a scalable solution, AlexisHR can cater to both small businesses looking for basic HR functionalities and larger organizations needing more advanced features.\n\nIn summary, AlexisHR is a modern, agile HR platform that simplifies and humanizes HR processes. Its recent integration with Simployer Group positions it for significant growth and enhanced service delivery in the Nordic HR market.\n\nKeywords: HRIS, Nordic market, employee management, payroll, performance tracking, compliance, subscription-based, user-friendly, affordable, scalable. Founded 6 years ago with 9.0 employees. Serves B2B. Income streams: Subscription. in 1 rounds (Stage: seed).",
+        "similarity": 0.6,
+        "industries": "Human Resource (HR) Software",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": -47.65,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-01-01",
+        "hq_locations": "Stockholm, Sweden",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 3.434459,
+        "last_round_funding_usd_million": 1.98,
+        "last_round_funding_date": "2022-07-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Allysurveillance",
+        "domain": "allysurveillance.com",
+        "description": "Security | UT | Ally Surveillance",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Clearfield, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Anova Studio",
+        "domain": "anovastudio.com",
+        "description": "Anova | AI Startup Studio",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-01-01",
+        "hq_locations": "Dartford, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Apex Mobiletech",
+        "domain": "apex-mt.com",
+        "description": "Apex \u2013 We enhance the productivity of ambitious brands",
+        "similarity": 0.6,
+        "industries": "Real Estate and Property Management Software",
+        "employees": 44.0,
+        "employee_12_months_growth_relative": 2.22,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "Philippines",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Philippines (100%)",
+        "founded_date": "2009-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Avrom Systems",
+        "domain": "avromsystems.com",
+        "description": "Home - Avrom Systems - Your Complete IT Solution",
+        "similarity": 0.6,
+        "industries": "Hosting, Security",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1985-01-01",
+        "hq_locations": "Chatham, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Battleship",
+        "domain": "battleshipsecurity.com",
+        "description": "Cyber security mentoring platform that helps SaaS companies meet SOC 2 requirements",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Security",
+        "employees": 32.0,
+        "employee_12_months_growth_relative": -6.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-03-01",
+        "hq_locations": "Raleigh, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Blinx Solutions",
+        "domain": "blinxsolutions.com",
+        "description": "Supply Chain Management | Warrington | Blinx Solutions",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 33.0,
+        "employee_12_months_growth_relative": 3.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2014-01-01",
+        "hq_locations": "Warrington, United Kingdom",
+        "funding_stage": "Non-Equity Assistance",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2023-07-03",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Block Ransomware",
+        "domain": "blockransomware.com",
+        "description": "Block Ransomware\u2122 | Hardware Solution to Block Ransomware",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2017-03-24",
+        "hq_locations": "Los Angeles, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Bm Cyber Security",
+        "domain": "bmcybersecurity.com",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-10-01",
+        "hq_locations": "Windlesham, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Breach Report",
+        "domain": "breachreport.com",
+        "description": "Breach report - digital security platform",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-08-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Byjama",
+        "domain": "byjama.com",
+        "description": "Byjama Ltd builds bespoke enterprise web and mobile software for business customers, delivering projects from proof of concept through product launch. They focus on tailored, requirement-driven solutions including responsive web apps, native mobile apps and reporting tools, and position themselves as providers of lean applications that integrate with clients' systems.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United Kingdom (100%)",
+        "founded_date": "2014-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "C-Level",
+        "domain": "the-c-level.com",
+        "description": "We aim to be the regional expertise in information technology services, ready to build and innovate modern solutions to meet our client needs. also, encourage and empower all employees to maximize knowledge and ability to develop their competencies, to become the trusted advisor for clients. IBM Enterprise Content Management IBM Business Process Management Java Software Development IBM Digital Business Automation on Cloud",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 21.0,
+        "employee_12_months_growth_relative": 74.4,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Thailand",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Thailand (100%)",
+        "founded_date": "2010-01-01",
+        "hq_locations": "Bangkok, Thailand",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "CloudFiles",
+        "domain": "cloudfiles.io",
+        "description": "CloudFiles is a dynamic startup that specializes in secure file sharing and tracking for businesses. The company operates in the cloud-based file management market, providing a robust platform that enhances document security, offers detailed analytics, and integrates seamlessly with other enterprise tools. CloudFiles primarily serves sales and marketing teams, enabling them to use files as a powerful selling tool by providing visibility into customer engagement.\n\nThe platform offers a range of features designed to meet the needs of modern businesses. These include secure file sharing, document management, file version control, and detailed file tracking. One of its standout features is the ability to create virtual data rooms, which are secure online spaces where multiple files and folders can be shared and managed. This is particularly useful for businesses that need to handle sensitive information securely.\n\nCloudFiles also integrates with popular CRM systems like HubSpot and Salesforce, allowing users to track file interactions directly within these platforms. This deep integrability ensures that businesses can maintain a streamlined workflow without having to switch between different tools.\n\nThe business model of CloudFiles is subscription-based. They offer a 14-day free trial with no credit card required, allowing potential clients to experience the platform's capabilities before committing to a paid plan. Revenue is generated through these subscription fees, which vary based on the level of service and number of users.\n\nIn summary, CloudFiles is a valuable tool for businesses looking to enhance their file sharing and tracking capabilities. By providing enterprise-grade security, detailed analytics, and seamless integration with other business tools, CloudFiles helps companies improve their document management processes and gain insights into customer engagement.\n\nKeywords: Secure File Sharing, Document Management, File Tracking, Virtual Data Rooms, Sales Enablement, Marketing Tools, HubSpot Integration, Salesforce Integration, Subscription Model, Customer Engagement. Founded 4 years ago with 24.0 employees. Serves B2B. Income streams: Subscription. in 2 rounds (Stage: convertible_note).",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Marketing",
+        "employees": 25.0,
+        "employee_12_months_growth_relative": 15.909999999999998,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.87
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.13
+          }
+        ],
+        "employee_geography": "India (87%), United States (13%)",
+        "founded_date": "2021-06-22",
+        "hq_locations": "Fremont, United States",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 0.615,
+        "last_round_funding_usd_million": 0.3,
+        "last_round_funding_date": "2023-01-06",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Crespro Technologies Sdn Bhd",
+        "domain": "crespro.com",
+        "description": "Malaysia Mobile Research and Development, Mobile App Middleware, Mobile App Development, Business Analytics, Data Integration",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2007-01-01",
+        "hq_locations": "Petaling Jaya, Malaysia",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Ctintegrators",
+        "domain": "ctintegrators.com",
+        "description": "CTintegrators, Inc.  Home - Cyber Security  and Cloud Services in DC Metro area",
+        "similarity": 0.6,
+        "industries": "Hosting, Security",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": -20.830000000000002,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1992-01-01",
+        "hq_locations": "Clifton, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Cymantis",
+        "domain": "cymantis.com",
+        "description": "Cymantis provides cybersecurity and technology consulting services for organizations, specializing in federal, financial, and healthcare compliance. They offer threat identification and mitigation, security and privacy strategy, penetration testing, managed vulnerability assessments, compliance and audit preparation, blockchain security, and startup accelerator support. They position themselves as a complete portfolio for identifying and mitigating cybersecurity risk and guiding organizations through audits and compliance.",
+        "similarity": 0.6,
+        "industries": "Legal, Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": null,
+        "hq_locations": "Reston, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Cysure",
+        "domain": "cysure.ltd",
+        "description": "CySure - Cyber Security Compliance Management and Monitoring",
+        "similarity": 0.6,
+        "industries": "Legal, Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2021-01-01",
+        "hq_locations": "United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "DATAVERSO.COM",
+        "domain": "dataverso.com",
+        "description": "DATA VERSO: Business Intelligence (BI)",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "DB Search Solutions",
+        "domain": "dbsearch.co.uk",
+        "description": "DB Search Solutions Ltd",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2017-05-01",
+        "hq_locations": "United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Data Lens",
+        "domain": "datalensinc.com",
+        "description": "Data Lens Business Intelligence Consulting | Analytics Solutions",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "2001-01-01",
+        "hq_locations": "King of Prussia, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Data Pathfinder",
+        "domain": "data-pathfinder.nl",
+        "description": "",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Netherlands",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Data Visual",
+        "domain": "data-visual.co.uk",
+        "description": "DataVisual | Cognos | Business Intelligence | Data Warehousing",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United Kingdom (100%)",
+        "founded_date": null,
+        "hq_locations": "United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "DigiQuatics",
+        "domain": "digiquatics.com",
+        "description": "DigiQuatics: The All-In-One App for Aquatics.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 9.0,
+        "employee_12_months_growth_relative": 66.67,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2012-01-01",
+        "hq_locations": "Lakewood, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Dock",
+        "domain": "dock.io",
+        "description": "Dock.us is a customer-centric platform that streamlines the process of sharing and organizing various types of content with customers, including videos, presentations, order forms, and project plans. The platform is primarily used by sales and customer teams at leading companies to enhance their sales and onboarding experiences. \n\nThe business operates in the software-as-a-service (SaaS) market, serving a wide range of clients, from small businesses to large corporations. Its primary function is to provide a single, trackable workspace where businesses can share project plans, videos, proposals, and order forms with their customers. \n\nDock.us's business model is based on a subscription fee, which provides users with access to its platform. The platform offers a range of features designed to improve efficiency and productivity, including automated follow-ups for sales reps, secure signing experiences, and onboarding portals. \n\nOne of the key features of Dock.us is its ability to track everything from order form status to onboarding tasks to video views, providing businesses with deeper insights into their customer relationships. This allows businesses to better understand their customers' needs and preferences, ultimately leading to improved customer satisfaction and increased sales.\n\nIn summary, Dock.us is a comprehensive platform that simplifies and enhances the process of sharing and organizing content with customers, leading to improved sales and onboarding experiences.\n\nKeywords: Customer-Centric, Content Sharing, Sales Enhancement, Onboarding, SaaS, Subscription Model, Trackable Workspace, Efficiency, Customer Relationship, Productivity. Founded 4 years ago with 23.0 employees. Serves B2B. Income streams: Subscription. in 2 rounds (Stage: seed).",
+        "similarity": 0.6,
+        "industries": "IT Security and Privacy Software",
+        "employees": 35.0,
+        "employee_12_months_growth_relative": -5.1,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2017-01-01",
+        "hq_locations": "Zug, Switzerland",
+        "funding_stage": "Grant",
+        "total_funding_usd_million": 21.2,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2019-08-23",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "E-Sign",
+        "domain": "e-sign.co.uk",
+        "description": "E-Sign provides electronic signature solutions and digital document management services. Their typical customers include businesses across various industries, as well as government and healthcare sectors. They position themselves as a leading global provider of electronic signature solutions, emphasizing their user-friendly platform, innovative product range, and their ability to save time, money, and hassle on day-to-day business processes. They also offer comprehensive services to support unified digitalization and simplified document transaction management. Founded 13 years ago with 18.0 employees. Serves B2B,Education,Government,Healthcare. in 1 rounds (Stage: Early Stage Funding).",
+        "similarity": 0.6,
+        "industries": "Legal",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": "Liverpool, United Kingdom",
+        "funding_stage": "Crowdfunding",
+        "total_funding_usd_million": 0.512842,
+        "last_round_funding_usd_million": 0.10919,
+        "last_round_funding_date": "2019-04-02",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "EcoStruxure\u2122 IT Expert",
+        "domain": "ecostruxureit.com",
+        "description": "EcoStruxure IT | Schneider Electric",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Epcusa",
+        "domain": "epcusa.net",
+        "description": "EPC USA offers a range of world-class security solutions in the form of cybersecurity products and services. Their typical customers are businesses and organizations looking to protect their data, applications, and network infrastructure from cyber-attacks and security breaches. They position themselves as experts in providing comprehensive and cutting-edge IT and security solutions, backed by personalized demonstrations and a team of expert security engineers who work closely with their clients.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Denver, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software Enabled",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Eve",
+        "domain": "eve.legal",
+        "description": "Eve Legal is an innovative company that provides an AI-powered legal assistant designed to enhance the productivity of legal professionals. The core service includes automating common legal tasks such as document review, case analysis, and legal research. Eve is equipped with a robust set of skills and is ready to use immediately, offering significant time savings and high ROI for legal firms. The AI assistant can be trained and customized to meet the specific preferences and standards of each user, making it a valuable team member rather than just software. Eve allows legal professionals to offload repetitive, low-value tasks, enabling them to focus on high-level case aspects and deliver more value to their clients. The company operates in the legal tech market, targeting law firms and legal departments that seek to improve efficiency and client satisfaction. Eve Legal's business model revolves around subscription-based services, providing continuous updates and support to ensure the AI assistant remains effective and up-to-date. By enhancing productivity and enabling legal professionals to take on more clients without getting overwhelmed, Eve Legal generates revenue through recurring subscriptions and potentially additional premium features or services.\n\nKeywords: AI-powered, legal assistant, document review, case analysis, legal research, productivity, customization, legal tech, subscription-based, efficiency. Founded 5 years ago with 116.0 employees. Serves B2B,Professional Services. Income streams: Subscription. in 2 rounds (Stage: series_a).",
+        "similarity": 0.6,
+        "industries": "Legal",
+        "employees": 286.0,
+        "employee_12_months_growth_relative": 343.83,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.99
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.01
+          }
+        ],
+        "employee_geography": "United States (99%), Other (1%)",
+        "founded_date": "2020-01-01",
+        "hq_locations": "San Mateo, United States",
+        "funding_stage": "Series B",
+        "total_funding_usd_million": 267.0,
+        "last_round_funding_usd_million": 103.0,
+        "last_round_funding_date": "2025-10-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Fiberax",
+        "domain": "fiberax.com",
+        "description": "Fiberax Networking & Cloud offers cloud infrastructure and hosting services\u2014primarily virtual servers (Windows and Linux), GPU-ready VMs for AI workloads, and Backup as a Service\u2014targeting businesses and technical teams that need compute, scaling, and data protection. They position themselves around fast deployment, resilient operations, simple management via pre-configured plans and a control panel, and integrated backup/restore capabilities.",
+        "similarity": 0.6,
+        "industries": "Hosting, Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2014-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Fjord Software",
+        "domain": "fjordsoftware.eu",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2007-01-01",
+        "hq_locations": "Latvia",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Get AI",
+        "domain": "getai.se",
+        "description": "Develops solutions and provides learning services on artificial intelligence",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-01-01",
+        "hq_locations": "Helsingborgs kommun, Sweden",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "IVISIOTECH",
+        "domain": "ivisiotech.com",
+        "description": "IVISIOTECH - The key to your security",
+        "similarity": 0.6,
+        "industries": "Security, Transportation",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Icon Cloud Solutions",
+        "domain": "iconcloud.com",
+        "description": "ICON Cloud Solutions delivers hosted and hybrid business communications and networking services for organizations, focusing on hosted phone systems, SIP trunking, unified communications, monitoring/alerting, and managed network services. They target businesses and public-sector customers and position themselves as a single-source provider offering secure, scalable communications with premises-class features and integrated support.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 37.4,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": "Coppell, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Integrated Cyber",
+        "domain": "integratedquantum.com",
+        "description": "Cyber Security Services | Integrated Cyber",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 10.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "2021-01-01",
+        "hq_locations": "Hempstead, United States",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 373.251381,
+        "last_round_funding_usd_million": 1.84,
+        "last_round_funding_date": "2026-05-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Integrity Solutions - Office Routing",
+        "domain": "office-routing.com",
+        "description": "Office Routing Plus (ORP) Home Page",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Iscfax",
+        "domain": "iscfax.com",
+        "description": "Cloud Fax Service, Email to Fax, Fax to Email, Fax Online",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 4.0,
+        "employee_12_months_growth_relative": -19.470000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "1987-01-01",
+        "hq_locations": "Hartland, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Isee",
+        "domain": "iseeinternational.com",
+        "description": "iSee International - Data Capture - Audit, Checklist, Feedback systems,",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": "Dubai, United Arab Emirates",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "JAAT Solutions",
+        "domain": "jaatsolutions.com",
+        "description": "JAAT Solutions offers IT and business consulting services that align people, processes and tools to solve business problems for organizations. They serve businesses needing process reviews, assessments, analytics, technology roadmaps, systems integration and disaster recovery planning. They position themselves as practical problem-solvers who deliver solutions in real working environments and emphasize accountability and integrity in engagements.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 97.0,
+        "employee_12_months_growth_relative": 20.200000000000003,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "India",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "India (100%)",
+        "founded_date": "2006-01-01",
+        "hq_locations": "Belleville, Canada",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Jackfruit Systems",
+        "domain": "jackfruitsystems.com",
+        "description": "Blockchain solutions and products for transportation industry",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2013-01-01",
+        "hq_locations": "Winnipeg, Canada",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Kloudwerk",
+        "domain": "kloudwerk.com",
+        "description": "Kloudwerk | Cyber Security Services | Cloud Threat Detection",
+        "similarity": 0.6,
+        "industries": "Legal, Security",
+        "employees": 8.0,
+        "employee_12_months_growth_relative": -9.049999999999999,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2020-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Lamnia",
+        "domain": "homeandawayvpn.com",
+        "description": "Lamnia VPN | Dedicated VPN | Dynamic VPN | Open VPN | Secure Video Calling",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2021-11-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "LegalFly",
+        "domain": "legalfly.com",
+        "description": "AI Copilot transforming legal processes with features for litigation, contract review and drafting.. LegalFly.ai is an innovative startup that leverages artificial intelligence (AI) to revolutionize the legal document review process. The company primarily serves legal professionals, including law firms, corporate legal departments, and solo practitioners. Operating in the legal tech market, LegalFly.ai aims to streamline and optimize the traditionally time-consuming task of contract review.\n\nLegalFly.ai's core offering is an AI-powered platform that significantly reduces the time required to review legal contracts. Typically, a manual review of a legal contract can take around four hours. However, with LegalFly.ai, this process is condensed to just 20 minutes. This efficiency translates to substantial time savings, allowing legal professionals to reclaim valuable hours that can be redirected to other critical tasks.\n\nThe platform supports multiple document formats, including PDF and Word, making it versatile and user-friendly. Users simply upload their legal documents, and LegalFly.ai handles the rest. The AI meticulously analyzes every line of the document, identifying risks, missing clauses, and ensuring compliance. Additionally, the platform offers contract performance analytics, enabling users to make data-driven decisions.\n\nA key feature of LegalFly.ai is its commitment to privacy and security. The platform anonymizes all personal data in the documents before processing, ensuring that sensitive information remains confidential.\n\nLegalFly.ai operates on a subscription-based business model. Clients pay a recurring fee to access the platform's services, which provides a steady revenue stream for the company. This model is advantageous for both the company and its clients, as it ensures continuous access to the latest AI advancements and platform updates.\n\nIn summary, LegalFly.ai is transforming the legal industry by providing an AI-driven solution for contract review, saving time, enhancing accuracy, and ensuring data security. The company is well-positioned in the growing legal tech market, offering a valuable tool for legal professionals seeking efficiency and precision in their work.\n\nKeywords: AI, legal tech, contract review, time-saving, legal professionals, document analysis, data security, subscription model, compliance, analytics. They are classified internally as TBT. Founded 1 years ago with 31.0 employees (11-50). 175.0% growth in employees over 12 months. Serves B2B, Professional Services, focusing on b2b. Income streams: Subscription. Growth stage: Early Growth. Raised 18586375.0 million in 4 rounds (Stage: Other Funding) Last funded: 2024. Backed by investors including Slaughter and May Collaborate, Plug and Play Insurtech Europe, Mehdi Ghissassi, Redalpine Venture Partners, Fortino Capital, Notion Capital. Markets: Belgium, United Kingdom. Founded 2 years ago with 51.0 employees. Serves B2B,Professional Services. Income streams: Subscription. in 2 rounds (Stage: series_a).",
+        "similarity": 0.6,
+        "industries": "Legal Software",
+        "employees": 61.0,
+        "employee_12_months_growth_relative": 23.28,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Belgium",
+            "percent": 0.53
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.4
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.07
+          }
+        ],
+        "employee_geography": "Belgium (53%), United Kingdom (40%), Other (7%)",
+        "founded_date": "2023-07-14",
+        "hq_locations": "Belgium",
+        "funding_stage": "Series A",
+        "total_funding_usd_million": 18.591889000000002,
+        "last_round_funding_usd_million": 16.380043,
+        "last_round_funding_date": "2024-07-15",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Lib13",
+        "domain": "lib13.com",
+        "description": "Lib13 provides cybersecurity consulting, penetration testing, secure development and operationalization services for organizations deploying software, machine learning, and blockchain systems. They target other organizations and claim to differentiate by combining experiential education, secure coding expertise, and cloud operationalization capabilities to help clients find vulnerabilities and implement security best practices.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Link Information Technology (P)",
+        "domain": "linkinfotech.com",
+        "description": "Survey Programming Services | Market Research Company in Delhi India",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 24.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "India",
+            "percent": 0.89
+          },
+          {
+            "confidence": "Medium",
+            "country": "United States",
+            "percent": 0.11
+          }
+        ],
+        "employee_geography": "India (89%), United States (11%)",
+        "founded_date": "1992-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Lotlynx",
+        "domain": "lotlynx.com",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Libertyville, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Maerue",
+        "domain": "maerue.com",
+        "description": "Official account for http://t.co/efoBm65R6w; BI and ERP SaaS for SMBs",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Seattle, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Mangold Security",
+        "domain": "mangoldsecurity.com",
+        "description": "Mangold Security | Mangold Security",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "MedStack",
+        "domain": "medstack.co",
+        "description": "MedStack is a company that provides privacy compliance solutions specifically designed for the digital health sector. It serves healthcare startups and organizations by offering a platform that ensures compliance with stringent privacy regulations such as HIPAA in the US, PHIPA in Canada, and GDPR in Europe. MedStack operates in the healthcare technology market, focusing on enabling faster scaling of digital health solutions through its comprehensive compliance infrastructure. The business model revolves around providing a subscription-based service that includes built-in security features like encryption, firewalls, and intrusion detection, as well as compliance tools such as audit logging and privacy training. MedStack makes money by charging healthcare startups and organizations for access to its platform, which simplifies the process of meeting regulatory requirements and securing patient data. The company also supports various deployment choices and integrates with popular database systems, offering flexibility to developers. \n\nKeywords: privacy compliance, digital health, HIPAA, PHIPA, GDPR, encryption, healthcare startups, audit logging, developer flexibility, subscription-based. Founded 10 years ago with 3.0 employees. Serves B2B,Healthcare. Income streams: Subscription. in 3 rounds (Stage: seed).",
+        "similarity": 0.6,
+        "industries": "Health, Security",
+        "employees": 4.0,
+        "employee_12_months_growth_relative": 26.05,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2015-03-31",
+        "hq_locations": "Toronto, Canada",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 8.89,
+        "last_round_funding_usd_million": 2.88,
+        "last_round_funding_date": "2021-09-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "MindOne - Software Innovators",
+        "domain": "m1si.com",
+        "description": "Mobile Applications | MindOne Software Innovators | California",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2015-01-01",
+        "hq_locations": "Agoura Hills, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Multi IT & Telephony Solutions",
+        "domain": "multiit.co",
+        "description": "IT Support Services in Johannesburg and Cape Town, outsourcing IT, computer support, managed service provider - Multi IT & Telephony Solutions",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 31.0,
+        "employee_12_months_growth_relative": 44.91,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "South Africa",
+            "percent": 0.94
+          },
+          {
+            "confidence": "High",
+            "country": "Namibia",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "South Africa (94%), Namibia (6%)",
+        "founded_date": "1985-01-01",
+        "hq_locations": "Bedfordview, South Africa",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "NCU",
+        "domain": "ncu.com.ua",
+        "description": "NCU - IT consulting company",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2007-01-01",
+        "hq_locations": "Kyiv, Ukraine",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software Enabled,Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Nexigen Communications",
+        "domain": "nexigen.com",
+        "description": "Nexigen delivers managed IT and cybersecurity services for businesses, combining 24/7 monitoring and help desk support with cloud solutions, compliance support, and strategic IT planning. They target enterprises, SMBs, and startups and position themselves as a partner offering dedicated teams, continuous security operations, and architecture/planning included as part of their service.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 64.0,
+        "employee_12_months_growth_relative": -1.27,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "2003-01-01",
+        "hq_locations": "Cincinnati, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "NordAxon",
+        "domain": "nordaxon.com",
+        "description": "Helps organisations to discover benefits and grow their business with applied Artificial Intelligence (AI) / Machine Learning (ML)",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 19.0,
+        "employee_12_months_growth_relative": 28.84,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Sweden",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Sweden (100%)",
+        "founded_date": "2018-01-12",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Noticia Solutions",
+        "domain": "noticiasolutions.com",
+        "description": "Noticia Solutions provides managed eDiscovery and electronic evidence management SaaS for law firms, businesses, and service providers. They emphasize combining third-party eDiscovery platforms, proprietary tools, and AI with managed services and support to reduce technical work and simplify review, redaction, and production workflows.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-06-27",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "PGTS",
+        "domain": "pgts.co.uk",
+        "description": "PGTS Business IT Support",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 5.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Wigan, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Papillon Technology",
+        "domain": "papillontech.com",
+        "description": "Papillon Technology Limited provides IP networking solutions and IT infrastructure services to businesses, offering consulting, system integration, managed support, and telecom solutions such as IP telephony and enterprise WiFi. They target startups and corporate customers and position themselves as IP networking experts and a long-term technology partner offering integrated IP network solutions and professional telecom consulting.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 15.0,
+        "employee_12_months_growth_relative": 5.74,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Hong Kong",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Hong Kong (100%)",
+        "founded_date": "2009-01-01",
+        "hq_locations": "Hong Kong, Hong Kong S.A.R.",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Parc Technologies",
+        "domain": "parctechnologies.com.au",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Australia",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Pdf Unlocker",
+        "domain": "pdf-unlocker.com",
+        "description": "PDF Unlocker Tool \u2013 A Quick Adobe PDF Restriction Remover to Unlock PDF",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Australia",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Plevina Information Technology",
+        "domain": "plevina.com",
+        "description": "Plevina.Com offers software development and integration services for businesses, delivering web, mobile, desktop and cloud solutions as well as developer tools and a packaged manpower management system. They target business customers that need custom applications or integrations and emphasize handling requirements, security controls, cross-platform mobile support, and cloud scalability.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Doha, Qatar",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "PointsShop",
+        "domain": "pointsshop.com.au",
+        "description": "Points Shop \u2013 Engage. Reward. Grow.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Melbourne, Australia",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Polymorph Co.",
+        "domain": "polymorph.co.th",
+        "description": null,
+        "similarity": 0.6,
+        "industries": null,
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Polynomial",
+        "domain": "polynomial.se",
+        "description": "A multidisciplinary technology studio focused on scalable, secure application design and development for SaaS, web and mobile platforms",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Rapidsketch",
+        "domain": "rapidsketch.com",
+        "description": "RapidSketch | Sketching just got easier!",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Buffalo, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Roomtime",
+        "domain": "roomtime.com",
+        "description": "RoomTime | Room & Resource Scheduling Software",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1997-01-01",
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "SECURETREE",
+        "domain": "securetree.net",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Seal Software",
+        "domain": "seal-software.com",
+        "description": "Seal Software specializes in AI-driven contract discovery and analytics, providing solutions that help businesses manage and analyze their contracts more effectively. The company serves a diverse range of clients, including legal departments, procurement teams, and compliance officers, primarily in large enterprises and multinational corporations. Operating in the legal tech and procurement markets, Seal Software's business model revolves around offering subscription-based software as a service (SaaS). The company generates revenue through subscription fees, professional services, and customer support packages.\n\nSeal Software's core product leverages artificial intelligence to rapidly identify and prioritize contract liabilities and risks, ensuring compliance with current and future regulations. This is particularly crucial during due diligence and post-transaction integration phases. The platform also aids in understanding obligations, incentives, and risks in vendor contracts, thereby increasing efficiency and visibility for procurement teams. Additionally, Seal Software automates routine tasks, speeds up search processes, and enables swift action, significantly enhancing the productivity of legal services.\n\nKeywords: AI-driven, contract discovery, contract analytics, compliance, procurement, legal efficiency, SaaS, risk management, due diligence, automation. Founded 15 years ago with 8320.0 employees. Serves B2B,Finance,Healthcare,Professional Services. Income streams: Subscription. in 5 rounds (Stage: corporate_round).",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Legal",
+        "employees": 8415.0,
+        "employee_12_months_growth_relative": 5.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2010-01-01",
+        "hq_locations": "Walnut Creek, United States",
+        "funding_stage": "Corporate Round",
+        "total_funding_usd_million": 62.0,
+        "last_round_funding_usd_million": 15.0,
+        "last_round_funding_date": "2019-03-28",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Security Portal",
+        "domain": "spaccess.net",
+        "description": "SPAccess provides a cloud-based visitor management SaaS that records and controls people and vehicle access across distributed locations. They target organizations with multiple entry points or vehicle fleets and emphasize centralized logging, auditability, automation (pre-enrollment, auto-exit, returning-visitor autofill), list management and integrations (LPR, barcode, e-sign, Twilio) as their differentiators.",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 5.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Sengex",
+        "domain": "sengex.net",
+        "description": "sengex wireless intrusion detection drone detection",
+        "similarity": 0.6,
+        "industries": "Security",
+        "employees": 5.0,
+        "employee_12_months_growth_relative": -13.73,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2008-01-01",
+        "hq_locations": "Mclean, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Share Solutions",
+        "domain": "sharesolutions.ro",
+        "description": "Share Solutions - cele mai eficiente solutii software",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Hosting",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Romania",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Show.me",
+        "domain": "showme-na.com",
+        "description": "Show.me Corp. provides a cloud-based, on-demand analytics platform that delivers business insights and data monetization via a library of SmartApps. They serve business customers such as mobile operators, retailers and enterprise marketing teams, and they claim rapid deployment, low up-front costs, fully managed cloud delivery, and fast access to insight-driven revenue opportunities.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "SignNow",
+        "domain": "signnow.com",
+        "description": "SignNow offers electronic signature solutions, document generation, payments, workflow automation, robotic process automation, web forms, contract management, contract negotiation, PDF editing, and online surveys. Their typical customers come from various industries such as financial services, government, healthcare, high tech, insurance, construction, real estate, and education. They position themselves as a cost-effective and user-friendly eSignature solution that offers powerful features tailored to the needs of both small and medium-sized businesses (SMBs) and enterprises. They claim to deliver a seamless eSignature experience across any device, with advanced functionality to improve team collaboration and provide complete visibility into the document signing process. Founded 14 years ago with 52.0 employees. Serves B2B,Finance,Government,Healthcare. Income streams: Subscription. in 1 rounds (Stage: ACQUISITION).",
+        "similarity": 0.6,
+        "industries": "Fintech, Legal",
+        "employees": 50.0,
+        "employee_12_months_growth_relative": -5.38,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Ukraine",
+            "percent": 0.48
+          },
+          {
+            "confidence": "High",
+            "country": "Poland",
+            "percent": 0.18
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.15
+          },
+          {
+            "confidence": "High",
+            "country": "Philippines",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "Israel",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "Ukraine (48%), Poland (18%), Other (33%)",
+        "founded_date": "2011-01-01",
+        "hq_locations": "Brookline, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 2.5,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2012-11-02",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Signaturit",
+        "domain": "signaturit.com",
+        "description": "Signaturit, a Barcelona-based company founded in 2013, operates as a Trust Service Provider, offering solutions for secure digital transactions. The company's offerings include electronic signatures, certified registered delivery, and electronic identification, designed to ensure the legal security and efficiency of digital processes for its clients.\n\nSignaturit's business model is centered around a modular platform that allows organizations to integrate these trust services into their existing workflows. This platform caters to both private and public sector entities, aiming to digitize and secure their critical transactions. The company has grown through a series of strategic acquisitions, including Ivnosys and Universign, and is currently in negotiations to merge with Namirial, which would create a significant player in the European Digital Transaction Management (DTM) market. This merger is expected to expand the group's presence across Italy, Spain, France, and Germany.\n\nThe company's revenue is generated through its suite of digital trust solutions, with a focus on improving process efficiency and ensuring regulatory compliance for its customers. The platform's modularity allows for tailored solutions, addressing the specific needs of different organizations in their digital transformation efforts.\n\nKeywords: electronic signature, digital transaction management, trust services, certified registered delivery, electronic identification, regtech, legaltech, compliance, cybersecurity, digital transformation Founded 12 years ago with 270.0 employees. Serves B2B,Education,Finance,Professional Services. Income streams: Subscription. in 7 rounds (Stage: series_a).",
+        "similarity": 0.6,
+        "industries": "Legal Software",
+        "employees": 352.0,
+        "employee_12_months_growth_relative": 42.09,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.6
+          },
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.39
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0
+          }
+        ],
+        "employee_geography": "Spain (60%), France (39%), Other (0%)",
+        "founded_date": "2013-05-01",
+        "hq_locations": "Barcelona, Spain",
+        "funding_stage": "Series A",
+        "total_funding_usd_million": 11.733271,
+        "last_round_funding_usd_million": 7.939073,
+        "last_round_funding_date": "2019-02-19",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Smart Rota",
+        "domain": "smartrota.com",
+        "description": "Smart Rota | Scheduling automation for smarter business",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 157.67,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.67
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.33
+          }
+        ],
+        "employee_geography": "United States (67%), United Kingdom (33%)",
+        "founded_date": "2014-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Softmetics",
+        "domain": "softmetics.org",
+        "description": "Softmetics is a highly innovative software house, systems integrator, and technology provider, established to provide leading-edge intelligent technical solutions and consulting services to businesses, organizations, and government in order to allow the efficient and effective secure access and communication with various heterogeneous information resources and services, anytime and anywhere. Softmetics is a company that intends to be in front of the client\u2019s needs, deeply understanding clients\u2019 business and delivering and optimizing IT solutions from the initial phase of scoping the requirements, up to the final delivery, maintenance, and continuous upgrade. Softmetics always look at things from the customer perspective, but also from customer\u2019s customer perspective to grasp their real business need for the IT solutions they deliver.\n\nOur Vision and Corporate Motto: \nEstablished to deliver leading-edge ubiquitous secure technologies, intelligent technical solutions and consulting services to businesses, organizations and governmental bodies, Softmetics was founded with the vision to enable \u2018secure access to any service, data and information anytime, anywhere\u2019, providing its customers and business partners with robust, extensible and customizable security-enhanced solutions for information sharing, data exchange, services invocation, and communication.\n\nOur team operates with enthusiasm and flexibility. We are focused on our customers, being their reliable partner for IT services and solutions, working together on a partnership basis, helping them face the challenges of modern times.\n\nCommitment to Quality Assurance: \nOur main emphasis is to deliver the best quality in every project we undertake. With our time tested business methodology, and structured solution building approach, we ensure to maintain global business standards.",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Security",
+        "employees": 15.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "SolCore Solutions",
+        "domain": "solcoresolutions.com",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": 2.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1995-01-01",
+        "hq_locations": "Pompano Beach, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "SpeakInsight\u2122",
+        "domain": "speakinsight.com",
+        "description": "SpeakInsight\u2122 - Data Analyst Workshop - Turning Analytics into Action",
+        "similarity": 0.6,
+        "industries": "Enterprise Software",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      }
+    ],
+    "error": null,
+    "message": null
+  },
+  "enrichment": {
+    "space_name": "Document automation & e-signature",
+    "space_themes": [
+      "E-signature infrastructure",
+      "Contract lifecycle management",
+      "Sales workflow automation",
+      "Document analytics",
+      "AI-assisted drafting",
+      "SMB-to-enterprise expansion"
+    ],
+    "seed_summary": "PandaDoc occupies the middle ground between pure e-signature tools and full contract lifecycle management platforms, bundling document creation, templating, approval workflows, and embedded payments into a single product aimed squarely at sales teams. Its angle is productivity for revenue-generating workflows rather than legal or compliance workflows \u2014 it competes on ease of use and speed-to-close rather than on legal enforceability tooling or enterprise governance. That positioning has allowed it to build meaningful scale with SMBs and mid-market companies that find DocuSign's pricing painful and Ironclad's complexity overkill.",
+    "space_summary": "The market is effectively bifurcated: DocuSign owns the high-trust, high-volume e-signature layer with deep enterprise penetration, while a fragmented second tier fights for contract automation, document intelligence, and vertical-specific workflows. Competition is genuinely multi-dimensional \u2014 e-signature purity plays, CLM platforms, AI-powered review tools, and sales-document suites all claim adjacent ground, which means no single challenger has consolidated the non-DocuSign market. The space is attractive because digitizing document workflows is table-stakes infrastructure for businesses, but winning is hard because switching costs are moderate and the workflow integrations that create stickiness take years to build.",
+    "position_summary": "PandaDoc is the most interesting bet in this peer set outside of Ironclad precisely because it has the headcount scale to execute and a product philosophy that maps to where budgets actually flow \u2014 sales and revenue operations \u2014 rather than legal departments, which are slower to adopt and harder to land without an enterprise sales motion. Its vulnerability is the same as its strength: the sales-doc niche is accessible to well-resourced incumbents (DocuSign has already moved up the stack via SpringCM) and to CRM-native competitors like Salesforce who can bundle document generation at zero incremental cost to buyers. The critical question for an investor is whether PandaDoc's usage breadth \u2014 templates, CPQ-lite, payments \u2014 creates genuine platform lock-in or whether it remains a feature set that a consolidating incumbent can replicate. Headcount growth of 10.6% on a 891-person base suggests disciplined scaling, but with $66.93M raised it is likely approaching a funding inflection where the next round needs to demonstrate either a path to profitability or an enterprise ACV expansion story.",
+    "incumbents_summary": "DocuSign is essentially infrastructure at this point \u2014 8,000-plus employees, post-IPO balance sheet, and a brand synonymous with e-signature in the same way Xerox once was with copying. Its acquisition of SpringCM was a direct signal that it intends to own the full CLM stack, not just the signature moment, which compresses the available white space for challengers. For a new bet, DocuSign's dominance is less a competitive threat than a gravitational field \u2014 it sets the floor on pricing and the ceiling on what an acquirer might pay, making it both the most likely exit buyer and the most credible destroyer of standalone value.",
+    "established_summary": "The established player tier is genuinely heterogeneous and mostly subscale. Ironclad is the only one that merits serious attention \u2014 it has raised $334M, serves large legal teams at recognizable enterprises, and is building toward a defensible CLM moat with legal-grade workflow complexity that PandaDoc does not touch. Yousign is a credible regional play in Europe but unlikely to break out globally. LawGeex and LegalSifter are narrow AI-review tools that are more likely acquisition targets than standalone platforms. The rest \u2014 Penneo, Docfield, LEVERTON \u2014 are either geographically constrained or too thinly capitalized to matter at scale. Consolidation is the logical outcome for most of this tier, and the acquirers will be DocuSign, Salesforce, or SAP rather than any of the challengers themselves.",
+    "blurbs": {
+      "pandadoc.com": "Document automation software with electronic signatures and workflow management.",
+      "docusign.com": "Cloud-based electronic signature and digital agreement platform.",
+      "docfield.com": "Document and contract management platform for streamlining business processes.",
+      "ironcladapp.com": "Digital contracting platform automating the entire contract lifecycle.",
+      "legalsifter.com": "Legal technology platform for streamlining contract review processes.",
+      "docsend.com": "Secure document sharing platform with engagement analytics and tracking.",
+      "penneo.com": "Digital signature platform using electronic IDs for document signing.",
+      "yousign.com": "Electronic signature solution for streamlining approval processes and interactions.",
+      "springcm.com": "Document and contract management solution for digital transformation.",
+      "lawgeex.com": "AI-powered platform automating contract review and analysis.",
+      "armada.ai": "Cloud-based supply chain visibility and collaboration platform.",
+      "leverton.ai": "AI-powered data extraction and contract analytics platform.",
+      "webdoxclm.com": "Contract Lifecycle Management software for contract management and signing.",
+      "documo.com": "Digital document management platform offering secure paperless solutions.",
+      "contractpodai.com": "AI-powered Contract Lifecycle Management platform for end-to-end contract automation.",
+      "uhurasolutions.com": "AI-powered platform automating document-driven financial processes.",
+      "everlaw.com": "Advanced ediscovery software for electronic data discovery and litigation support.",
+      "scrive.com": "Electronic signature and digital identification platform for digital transformation."
+    },
+    "summaries": {
+      "docusign.com": "DocuSign is a leading cloud-based platform for electronic signatures and digital agreements serving businesses and individuals. The company enables organizations to sign documents electronically and streamline agreement workflows. DocuSign holds a dominant position in the e-signature market.",
+      "docfield.com": "Doc Field provides a document and contract management platform helping organizations streamline their contract and document workflows. The company serves customers in education, IT & Software, and other industries. Its platform enables businesses to enhance efficiency in document handling.",
+      "ironcladapp.com": "Ironclad is a digital contracting platform designed to automate and streamline the complete contract lifecycle from creation to execution. The company primarily serves legal teams within large enterprises and fast-growing companies. Ironclad counts notable clients among Fortune 500 organizations.",
+      "legalsifter.com": "LegalSifter provides innovative solutions to automate and streamline contract review, operating in the legal technology market. The company serves businesses, legal professionals, and research organizations needing efficient contract analysis. Its platform helps reduce manual review time for legal agreements.",
+      "docsend.com": "DocSend, operated by Dropbox, provides secure document sharing with real-time engagement analytics and tracking capabilities. The platform serves startups, sales teams, and investors who need to share sensitive documents securely and monitor recipient interactions. DocSend enables users to track document views and engagement metrics.",
+      "penneo.com": "Penneo specializes in digital document signing solutions leveraging electronic IDs (eIDs), founded in 2014. The company established strong market presence in Denmark and has since expanded globally. Penneo serves businesses requiring legally-binding digital signature capabilities.",
+      "yousign.com": "Yousign provides electronic signature solutions designed to streamline approval processes and enhance client interactions within the digital signature market. The company serves businesses, employees, and partners across various industries. Yousign enables organizations to digitize signing workflows.",
+      "springcm.com": "SpringCM, now acquired by DocuSign, is a document and contract management platform helping businesses streamline agreement processes. The platform operates in the digital transformation space focusing on electronic signatures and cloud-based agreement workflows. SpringCM's integration with DocuSign expanded its capabilities in the contract management market.",
+      "lawgeex.com": "LawGeex operates in legal technology, offering an AI-powered platform that automates contract review and analysis. The company serves businesses of various sizes, legal teams, and corporate legal departments. Its artificial intelligence technology enhances efficiency in contract review processes.",
+      "armada.ai": "Armada.ai operates in supply chain technology, offering a cloud-based platform enhancing visibility and collaboration across supply chains. The company serves logistics providers, manufacturers, and retailers requiring improved supply chain coordination. Its platform addresses supply chain transparency and operational efficiency.",
+      "leverton.ai": "Leverton.ai provides AI-powered data extraction and contract analytics solutions for corporate and legal document management. The platform leverages artificial intelligence to extract, analyze, and integrate data from complex documents at scale. Leverton serves enterprises seeking to automate document processing and contract analysis.",
+      "webdoxclm.com": "Webdox Legal offers Contract Lifecycle Management (CLM) software helping organizations manage and sign contracts efficiently. The company serves businesses across various industries requiring streamlined contract management and legal compliance. Webdox enables companies to automate contract workflows and ensure regulatory adherence.",
+      "documo.com": "Documo operates in digital document management, providing secure and efficient paperless solutions including Fax over IP and simplified signing processes. The company helps businesses streamline document delivery and reduce paper-based workflows. Documo serves organizations seeking digital transformation in document handling.",
+      "contractpodai.com": "ContractPodAi is a legal technology startup providing an artificial intelligence-powered Contract Lifecycle Management (CLM) platform. The company's platform streamlines the end-to-end contract lifecycle from creation through execution and management. ContractPodAi serves legal and business teams requiring intelligent contract automation.",
+      "uhurasolutions.com": "Uhura Solutions operates in financial technology, providing an AI-powered platform that automates document-driven processes in compliance and lending workflows. The company primarily serves financial institutions, including banks and loan advisors navigating complex regulations. Its platform addresses regulatory compliance and operational efficiency in financial services.",
+      "everlaw.com": "Everlaw is a legal technology startup providing advanced ediscovery software for law firms, corporations, and government agencies. The platform handles electronic data discovery, helping organizations locate and manage electronically stored information for litigation. Everlaw serves legal professionals and enterprises managing large-scale data discovery.",
+      "scrive.com": "Scrive specializes in digital transformation through electronic signature and digital identification solutions, founded in 2010. The company established strong presence in the Nordic market and has expanded globally to serve businesses of all sizes. Scrive enables organizations to digitize signing and identity verification processes."
+    }
+  }
+}

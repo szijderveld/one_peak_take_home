@@ -1,0 +1,24 @@
+# Assignment material kept out of the submission
+.claude
+docs
+CLAUDE.md
+
+# Secrets
+.env
+backend/.env
+
+# Captured live Pulse responses are never committed (data hygiene)
+backend/fixtures/live_*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/.venv/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store

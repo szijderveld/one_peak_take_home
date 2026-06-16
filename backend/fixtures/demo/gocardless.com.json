@@ -1,0 +1,2994 @@
+{
+  "raw": {
+    "success": true,
+    "count": 101,
+    "cache_hit": true,
+    "results": [
+      {
+        "name": "gocardless",
+        "domain": "gocardless.com",
+        "description": "Global direct debit platform.",
+        "similarity": 1.0,
+        "industries": "Financial Software",
+        "employees": 851.0,
+        "employee_12_months_growth_relative": 1.41,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": 634.43,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": "Seed",
+        "gr_business_models": null,
+        "sources": [
+          "seed"
+        ]
+      },
+      {
+        "name": "cardconnect",
+        "domain": "cardconnect.com",
+        "description": "CardConnect is a comprehensive payment processing company that simplifies and secures transactions for businesses of all sizes. The company operates in the financial technology (fintech) market, providing a range of solutions designed to meet the diverse needs of its clients, which include small shops, eCommerce platforms, software developers, and business partners.\n\nCardConnect's primary product, CardPointe, offers real-time transaction management through a virtual terminal and a mobile app. This platform allows businesses to accept and manage payments securely and efficiently. The company also provides specialized solutions such as Bolt P2PE for software integration, Clover for small retail shops, and CoPilot for partners looking to manage their payment solutions.\n\nThe business model of CardConnect revolves around providing payment processing services. It makes money by charging fees for each transaction processed through its platform. These fees are kept competitive through interchange optimization, which ensures the lowest possible rates for credit card processing. Additionally, CardConnect offers a plug-and-play terminal for various types of transactions, including swipe, dip, and tap, all protected by point-to-point encryption (P2PE) to ensure security.\n\nCardConnect also caters to eCommerce businesses with its customizable and highly secure payment gateway, which can be seamlessly integrated into any existing online environment. For developers, the company provides APIs and comprehensive support to facilitate the integration of payment acceptance into their applications.\n\nThe company emphasizes security and efficiency, offering features like Level II and Level III data processing for additional savings and reduced audit scope under the Payment Card Industry (PCI) Security Standards. CardConnect also supports electronic check acceptance, providing businesses with flexible payment options.\n\nIn summary, CardConnect is a versatile and secure payment processing solution that serves a wide range of clients, from small shops to large eCommerce platforms, by offering competitive rates, robust security features, and comprehensive support.\n\nKeywords: Payment Processing, CardPointe, Fintech, eCommerce, P2PE, Virtual Terminal, Mobile App, Interchange Optimization, Secure Transactions, APIs. Founded 19 years ago with 329.0 employees. Serves B2B. Income streams: Subscription,\n  Commission. in 2 rounds (Stage: series_unknown).",
+        "similarity": 0.79,
+        "industries": "Fintech",
+        "employees": 327.0,
+        "employee_12_months_growth_relative": -1.4200000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.96
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "United States (96%), Other (4%)",
+        "founded_date": "2006-01-01",
+        "hq_locations": "King of Prussia, United States",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 50.0,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2016-03-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "cardless",
+        "domain": "cardless.com",
+        "description": "Cardless is a fintech startup that revolutionizes the way brands offer credit card programs to their customers. The company provides a powerful platform that allows businesses to launch co-branded digital credit cards quickly and efficiently. Unlike traditional credit card programs that can take months to implement, Cardless offers a streamlined process that can be completed in just a few weeks.\n\nCardless serves a variety of clients, primarily focusing on brands that want to enhance customer loyalty and engagement through personalized credit card offerings. These clients range from retail companies to service providers who are looking to integrate a seamless credit card experience into their existing ecosystems.\n\nOperating in the financial technology market, Cardless leverages advanced digital tools to simplify the credit card application process. Customers can apply for a card using a pre-built, optimized form that is rigorously tested to ensure a smooth user experience. The platform also offers dedicated developer assistance, enabling client teams to confidently build and customize their credit card programs.\n\nThe business model of Cardless revolves around providing a comprehensive, end-to-end credit card solution. This includes everything from the initial application process to targeted marketing campaigns aimed at driving customer acquisition and loyalty. Cardless makes money through a combination of setup fees, transaction fees, and possibly a share of the interest or fees generated by the credit cards issued through its platform.\n\nIn summary, Cardless is transforming the credit card landscape by offering a faster, more flexible way for brands to launch co-branded digital credit cards. This not only helps businesses attract more customers but also unlocks new revenue streams and improves overall customer experience.\n\nKeywords: fintech, digital credit cards, co-branded, customer loyalty, streamlined process, developer assistance, personalized offers, customer acquisition, revenue streams, financial technology. Founded 6 years ago with 46.0 employees. Serves B2B. Income streams: Subscription. in 7 rounds (Stage: series_c).",
+        "similarity": 0.71,
+        "industries": "Fintech",
+        "employees": 67.0,
+        "employee_12_months_growth_relative": 35.85,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.97
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.03
+          }
+        ],
+        "employee_geography": "United States (97%), Other (3%)",
+        "founded_date": "2019-02-26",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 225.0,
+        "last_round_funding_usd_million": 60.0,
+        "last_round_funding_date": "2025-09-22",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "guild_credit",
+        "domain": "guildcredit.com",
+        "description": "Cardless is a company that provides an embedded credit card platform, offering credit card programs for businesses looking to enhance customer engagement and increase revenue through branded credit cards. Their typical customers include businesses in the retail, e-commerce, and financial services industries who are looking to integrate credit card programs into their mobile apps or websites. Cardless differentiates itself by emphasizing its ability to launch integrated credit card programs in a matter of weeks, offering more spending, more data, and more engagement from customers, and highlighting its platform's ease of integration and customization. Founded 5 years ago with 34.0 employees (11-50). 27.66% decrease in employees over 12 months. Serves B2B, focusing on b2c. Growth stage: Early Growth. in 7 rounds (Stage: Late Stage Funding). Backed by investors including Simon Property Group, Tribe Capital, Clocktower Technology Ventures, Pear VC, American Express Ventures, Accomplice, Activant Capital, i80 Group, Greycroft. Markets: United States. Founded 6 years ago with 46.0 employees. Serves B2B. Income streams: . in 9 rounds (Stage: Late Stage Funding).",
+        "similarity": 0.71,
+        "industries": "Marketing",
+        "employees": 67.0,
+        "employee_12_months_growth_relative": 35.85,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.97
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.03
+          }
+        ],
+        "employee_geography": "United States (97%), Other (3%)",
+        "founded_date": "2019-02-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "3C Payment",
+        "domain": "3cpayment.com",
+        "description": "3C Payment, your cashless payment solution. We make it easy for consumers to pay anyhow, anywhere, using highly secure specialised transaction flows that support the needs of our clients. The services we offer cover the full transaction journey from integrated EMV hardware linked to our hosted infrastructure and payment gateway services and include online and in-app online payment acceptance linked to onsite and ERP systems Our secure 3C Integra hosted platform unifies multiple payment channels allowing merchants to confidently trade in person and online in over 45 countries worldwide with local or centralised reporting accessible from anywhere through our web portal. With our team of experts and leading industry insight we continually strive to improve the customer payment experience. Our function rich solutions include tokenised pre-authorisations with top up capability for seamless cross channel trading and the latest tablet based mPOS solutions for personalised service. Founded 8 years ago with 148.0 employees (51-200). Serves B2B, focusing on b2b. Income streams: Commission. Growth stage: Late Growth. in 1 rounds (Stage: Public) Last funded: 2020. Backed by Planet Payment. Markets: Luxembourg. Income streams: Commission. in 1 rounds (Stage: No Funding).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 94.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Leudelange, Luxembourg",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Banking Circle",
+        "domain": "bankingcircle.com",
+        "description": "Banking Circle Group provides global cross-border payments, accounts, and liquidity management services to Banks, Payments businesses, and Marketplaces. Their typical customers include Payments businesses, Banks, and Marketplaces in need of global banking solutions. Banking Circle Group claims to differentiate itself by providing fast and low-cost cross-border payments, access to a global network of clearing and settlement, and the ability to enhance service proposition and improve customer retention. They also position themselves as offering market-leading compliance and security, and they provide their solutions through API, Client Portal, or SWIFT connections. Founded 12 years ago with 899.0 employees. Serves B2B,Finance. Income streams: Commission. in 1 rounds (Stage: No Funding).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 1126.0,
+        "employee_12_months_growth_relative": 48.54,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Denmark",
+            "percent": 0.4
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.23
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.19
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.1
+          },
+          {
+            "confidence": "High",
+            "country": "Luxembourg",
+            "percent": 0.09
+          }
+        ],
+        "employee_geography": "Denmark (40%), United Kingdom (23%), Other (38%)",
+        "founded_date": "2013-01-01",
+        "hq_locations": "Luxembourg, Luxembourg",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Cardtek",
+        "domain": "cardtek.com",
+        "description": "Cardtek, operating under the brand PayCore, specializes in providing innovative end-to-end digital payment solutions and secure technologies. The company serves a diverse range of clients including financial institutions, payment service providers, telecom operators, personalization bureaus, retailers, terminal card vendors, and public transportation authorities. Cardtek operates in the global market with a presence in over 35 countries, delivering scalable and robust solutions that integrate seamlessly with multiple technologies and platforms.\n\nThe core business model revolves around offering an EMV-compliant platform that enables comprehensive management of the entire lifecycle of credit, debit, and prepaid card products. This includes payment processing services, embedded payment hardware solutions, and value-added services such as data networking, remote device management, and card printing solutions. Cardtek generates revenue through long-term partnerships with institutions requiring diverse processing services and through the sale of its hardware and software solutions.\n\nCardtek's solutions are designed to provide peace of mind to its clients by ensuring reliability, scalability, and seamless integration. The company has completed over 400 projects and has received 40 industry awards, underscoring its commitment to innovation and excellence in the payment solutions sector.\n\nKeywords: digital payment solutions, EMV-compliant, card lifecycle management, payment processing, embedded hardware, financial institutions, telecom operators, personalization bureaus, scalable solutions, global market. Income streams: Subscription,\n  Commission. in 1 rounds (Stage: SERIES C).",
+        "similarity": 0.7,
+        "industries": "Financial Software",
+        "employees": 14.0,
+        "employee_12_months_growth_relative": -91.67,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Istanbul, T\u00fcrkiye",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 19.25,
+        "last_round_funding_usd_million": 19.25,
+        "last_round_funding_date": "2016-02-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Deserve",
+        "domain": "deserve.com",
+        "description": "Deserve, accessible at deserve.com, is a fintech company that specializes in providing credit card solutions tailored for various market segments, including college students and businesses looking to offer co-branded credit cards. The company operates primarily in the financial services and technology market, focusing on digital-first, mobile-centric, and API-driven solutions.\n\nDeserve's primary offering is its \"Credit Card as a Service\" (CCaaS) platform. This turnkey solution allows businesses to quickly launch their own customized credit card programs. The platform is highly configurable, enabling partners to create co-branded cards that meet specific needs and branding requirements. For instance, a retail company could offer a store-branded credit card to its customers, leveraging Deserve's infrastructure.\n\nFor individual consumers, particularly college students, Deserve provides credit cards designed to help build credit history. These cards come with features like immediate digital wallet integration upon approval, allowing users to start using their cards within minutes. This is particularly beneficial for students who are new to credit and need a straightforward way to begin their credit journey.\n\nDeserve's business model revolves around earning revenue through various channels. For consumer cards, the company makes money from interest charges on outstanding balances, annual fees, and interchange fees (a small percentage of each transaction paid by merchants). For its CCaaS platform, Deserve charges businesses for the use of its technology and services, which may include setup fees, monthly service fees, and a share of the interchange fees from transactions made with the co-branded cards.\n\nIn summary, Deserve is a forward-thinking fintech company that leverages technology to offer innovative credit solutions for both consumers and businesses. Its digital-first approach ensures quick and efficient service delivery, making it a competitive player in the financial services market.\n\nKeywords: fintech, credit cards, college students, co-branded cards, digital wallet, API-driven, credit building, turnkey solution, financial services, mobile-centric. Founded 12 years ago with 106.0 employees. Serves B2B,Finance. Income streams: Subscription,\n  Commission. in 11 rounds (Stage: debt_financing).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 73.0,
+        "employee_12_months_growth_relative": -39.78,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.68
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.32
+          }
+        ],
+        "employee_geography": "India (68%), United States (32%)",
+        "founded_date": "2013-01-01",
+        "hq_locations": "Palo Alto, United States",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 545.2,
+        "last_round_funding_usd_million": 250.0,
+        "last_round_funding_date": "2022-05-11",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Imprint",
+        "domain": "imprint.co",
+        "description": "Imprint.co is a financial technology startup that specializes in designing, launching, and managing co-branded credit card programs. The company partners with renowned American brands to create credit card programs that appeal to modern consumers. Imprint's business model is centered around increasing the lifetime value of its partners' customers. This is achieved by driving up the average basket size, shopping frequency, and annual sales per cardholder.\n\nImprint operates in the financial services market, specifically in the credit card sector. Its clients are primarily well-established brands looking to offer their customers a co-branded credit card. The company's revenue is likely generated through a combination of fees charged to its partners for the creation and management of the credit card programs, and a share of the transaction fees charged to cardholders.\n\nWhat sets Imprint apart from traditional issuers is its agility and innovation. The company prides itself on being able to launch a new program in as little as three months, compared to the 18 months it typically takes traditional issuers. Imprint also emphasizes its commitment to customer service, promising all cardholders \"white-glove treatment\".\n\nIn summary, Imprint.co is a fintech startup that partners with major brands to create co-branded credit card programs. It operates in the financial services market, serving clients who want to offer their customers a branded credit card. Imprint's business model is based on increasing customer lifetime value for its partners, and it differentiates itself through its speed, innovation, and high-quality customer service.\n\nKeywords: Fintech, Co-branded Credit Cards, Customer Lifetime Value, Financial Services, Major Brands, Agile, Innovative, High-Quality Customer Service, Speed, Transaction Fees. Founded 5 years ago with 207.0 employees. Serves B2B,B2C. Income streams: Commission. in 6 rounds (Stage: debt_financing).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 258.0,
+        "employee_12_months_growth_relative": 46.400000000000006,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.97
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.03
+          }
+        ],
+        "employee_geography": "United States (97%), Other (3%)",
+        "founded_date": "2020-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Series D",
+        "total_funding_usd_million": 852.000773,
+        "last_round_funding_usd_million": 150.0,
+        "last_round_funding_date": "2025-12-17",
+        "tier": null,
+        "gr_business_models": "Software Enabled,Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Kard",
+        "domain": "kard.eu",
+        "description": "In 2015, Ben Mackinnon founded Kard with a vision to transform the landscape of customer loyalty programs. As the sole founder, Ben embarked on a journey to create a rewards-as-a-service API platform that empowers partners, from neobanks to financial institutions, to offer tailored rewards to their customers.\n\nKard's innovative approach quickly gained traction, leading to a significant milestone in April 2022 when the company raised $23 million in a Series A funding round. This funding, supported by prominent investors like Underscore VC and Tiger Global Management, was pivotal in expanding Kard's merchant network and enhancing its product suite.\n\nThe company's journey took another major turn in October 2024 when Kard was acquired by THK, marking a new chapter in its evolution. This acquisition underscored Kard's impact in the fintech space and its potential for further growth under THK's umbrella.\n\nToday, Kard stands as a testament to the power of innovation in the financial technology sector, continuing to redefine how businesses engage with their customers through effective loyalty programs. Founded 9 years ago with 71.0 employees. Serves B2B,Finance,Professional Services. Income streams: Commission. in 4 rounds (Stage: series_a).",
+        "similarity": 0.7,
+        "industries": "Education, Fintech",
+        "employees": 17.0,
+        "employee_12_months_growth_relative": -48.38,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "France (100%)",
+        "founded_date": "2018-12-01",
+        "hq_locations": "Paris, France",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 17.841967,
+        "last_round_funding_usd_million": 3.30427,
+        "last_round_funding_date": "2023-07-11",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "PayPal",
+        "domain": "paypal.com",
+        "description": "PayPal Holdings, Inc. is a leading global financial technology company that provides a digital payments platform. It serves a diverse range of clients, including individual consumers, small to medium-sized businesses (SMBs), and large enterprises. PayPal operates in the digital payments market, which encompasses online transactions, mobile payments, and peer-to-peer (P2P) transfers.\n\nThe core business model of PayPal revolves around facilitating secure and convenient online payments. It makes money primarily through transaction fees charged to merchants for processing payments. These fees vary based on the type of transaction and the volume of payments processed. Additionally, PayPal earns revenue from currency conversion fees, interest on customer balances, and fees for other financial services like credit and installment payments.\n\nFor individual consumers, PayPal offers a range of services including sending and receiving money, buying and selling cryptocurrency, and making purchases with various payment methods such as PayPal Credit, Pay in 4 (an installment payment option), and QR codes. Consumers can also manage their finances through features like direct deposit, check deposits, and savings goals.\n\nFor SMBs, PayPal provides solutions to accept payments, make payments, manage risk, and streamline operations. This includes tools for fraud protection, global payment processing, and various payment methods to cater to different customer preferences. PayPal also supports fundraising and marketplace platforms, making it easier for businesses to grow and manage their operations.\n\nFor large enterprises, PayPal offers a robust platform that simplifies payment operations, enhances fraud protection, and supports global payment processing. This helps enterprises manage complex payment needs efficiently and securely.\n\nIn summary, PayPal is a versatile digital payments platform that caters to a wide range of clients by offering secure, convenient, and innovative financial services. Its revenue model is primarily based on transaction fees, currency conversion fees, and financial service fees.\n\nKeywords: Digital Payments, Online Transactions, Mobile Payments, Peer-to-Peer Transfers, Transaction Fees, Cryptocurrency, Fraud Protection, Global Processing, Financial Services, Installment Payments. Founded 27 years ago with 35170.0 employees. Serves B2B,B2C. Income streams: Commission. in 6 rounds (Stage: post_ipo_debt).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 17.0,
+        "employee_12_months_growth_relative": -0.9476,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1998-12-01",
+        "hq_locations": "San Jose, United States",
+        "funding_stage": "Post-IPO Financing",
+        "total_funding_usd_million": 14170.030382,
+        "last_round_funding_usd_million": 2000.0,
+        "last_round_funding_date": "2026-05-12",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Payconiq",
+        "domain": "payconiq.com",
+        "description": "Payconiq International offers account-to-account payment solutions and flexible features for seamless payments, with a focus on real-time payment processing and value-added services. Their typical customers include banks, merchants, and payment service providers looking to modernize their infrastructure, increase transaction volume, and offer enhanced payment experiences to their clients. They claim to differentiate themselves by providing proven, scalable, and real-time payment solutions across the entire omnichannel experience, enabling a frictionless payment flow and optimizing the customer journey. Founded 11 years ago with 106.0 employees. Serves B2B,Finance. Income streams: Commission. in 2 rounds (Stage: series_unknown).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 80.0,
+        "employee_12_months_growth_relative": -24.77,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Netherlands",
+            "percent": 0.84
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.09
+          },
+          {
+            "confidence": "High",
+            "country": "Luxembourg",
+            "percent": 0.07
+          }
+        ],
+        "employee_geography": "Netherlands (84%), Other (9%), Other (7%)",
+        "founded_date": "2014-01-01",
+        "hq_locations": "Luxembourg, Luxembourg",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 22.289735,
+        "last_round_funding_usd_million": 22.289735,
+        "last_round_funding_date": "2019-07-25",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Plastiq",
+        "domain": "plastiq.com",
+        "description": "Plastiq is a financial technology company that revolutionizes the way businesses and individuals manage their payments. Operating primarily in the United States, Plastiq offers a platform that allows users to pay virtually any bill or expense using their credit cards, even if the recipient does not accept credit card payments. This includes payments for business expenses, suppliers, rent, taxes, raw materials, and more.\n\nPlastiq serves a diverse range of clients, from small businesses to large enterprises, as well as individual consumers. The platform is particularly beneficial for businesses that need to manage cash flow more effectively. By using Plastiq, businesses can leverage their existing credit lines to pay for expenses that typically require cash, checks, or bank transfers. This not only helps in freeing up cash flow but also allows users to earn rewards points on their credit cards, which can be used to offset other expenses like travel.\n\nThe company operates in the financial services market, specifically within the payment processing and cash management sectors. Plastiq's business model is straightforward: it charges a fee for each transaction processed through its platform. This fee is typically a percentage of the transaction amount. Despite this fee, many users find the service valuable because it offers greater flexibility in managing their finances and the potential to earn rewards.\n\nPlastiq makes money by charging these transaction fees, which are competitive within the industry. The platform integrates seamlessly with accounting software like QuickBooks Online, making it easy for businesses to keep track of their expenses and financial records.\n\nIn summary, Plastiq is a versatile payment solution that helps businesses and individuals manage their cash flow more efficiently by allowing them to use credit cards for a wide range of expenses. Its user-friendly platform and the ability to earn rewards make it an attractive option for those looking to optimize their financial operations.\n\nKeywords: payment platform, credit card payments, cash flow management, business expenses, financial technology, rewards points, transaction fees, QuickBooks integration, supplier payments, financial flexibility. Founded 13 years ago with 55.0 employees. Serves B2B. Income streams: Subscription. in 10 rounds (Stage: series_e).",
+        "similarity": 0.7,
+        "industries": "Fintech",
+        "employees": 50.0,
+        "employee_12_months_growth_relative": -8.39,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "United States",
+            "percent": 0.73
+          },
+          {
+            "confidence": "Medium",
+            "country": "Belgium",
+            "percent": 0.07
+          },
+          {
+            "confidence": "Medium",
+            "country": "Algeria",
+            "percent": 0.07
+          },
+          {
+            "confidence": "Medium",
+            "country": "Tunisia",
+            "percent": 0.07
+          },
+          {
+            "confidence": "Medium",
+            "country": "Canada",
+            "percent": 0.07
+          }
+        ],
+        "employee_geography": "United States (73%), Belgium (7%), Other (21%)",
+        "founded_date": "2012-01-01",
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": "Bankruptcy",
+        "total_funding_usd_million": 510.249986,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2023-05-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Transactis",
+        "domain": "transactis.com",
+        "description": "Transactis is a forward-thinking company that revolutionizes traditional billing and payment processing with its innovative, reliable, and secure digital solutions. The company operates in the financial technology (fintech) sector, focusing on simplifying receivables management for businesses. Transactis primarily serves banks and service providers, which in turn support millions of businesses across various industries.\n\nThe core of Transactis' business model is to provide advanced technology that automates billing processes. This automation helps businesses improve their cash flow and increase customer satisfaction by offering flexible billing options and multiple payment methods. Customers can pay online across devices, via Interactive Voice Response (IVR), Customer Service Representatives (CSR), and mobile wallets. Payment options include Automated Clearing House (ACH), credit and debit cards, and alternative payment methods.\n\nTransactis makes money by partnering with large banks and business service providers, who then offer Transactis' solutions to their business clients. This B2B2C (business-to-business-to-consumer) model allows Transactis to reach a broad market without directly engaging with end-users. Instead, they focus on providing robust, scalable, and secure technology to their partners, who then deliver these solutions to their clients.\n\nThe company is led by industry veterans who understand the complex needs of the market, ensuring that their technology remains cutting-edge and highly functional. This leadership, combined with their tested and proven technology, has earned Transactis the trust of thousands of businesses across various industries.\n\nIn summary, Transactis transforms billing and payment processing by automating receivables, improving cash flow, and enhancing customer satisfaction through advanced digital solutions delivered via major banks and service providers.\n\nKeywords: fintech, billing automation, receivables management, digital payments, ACH, credit card payments, mobile wallet, B2B2C, cash flow improvement, customer satisfaction. Founded 22 years ago with 32.0 employees. Serves B2B,Finance. Income streams: Commission. in 9 rounds (Stage: series_e).",
+        "similarity": 0.7,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 29.0,
+        "employee_12_months_growth_relative": -16.04,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.89
+          },
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.11
+          }
+        ],
+        "employee_geography": "United States (89%), France (11%)",
+        "founded_date": "2003-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Series E",
+        "total_funding_usd_million": 80.16,
+        "last_round_funding_usd_million": 30.0,
+        "last_round_funding_date": "2016-04-17",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "VeriFone",
+        "domain": "verifone.com",
+        "description": "Verifone is a leading company in the payments industry, providing innovative solutions to simplify complex commerce. The company operates globally, serving a diverse range of clients including retailers, hospitality businesses, payment acquirers (companies that process credit or debit card payments), and petrol stations. Verifone's main market is the financial technology sector, where it offers a variety of products and services designed to facilitate secure and efficient payment transactions.\n\nVerifone's business model revolves around selling and supporting payment devices and software solutions. These devices include countertop terminals, portable and transportable payment devices, mobile point-of-sale (mPOS) systems, integrated point-of-sale (POS) systems, and unattended kiosks. Some of their popular products are the V400c, V200c, P400, and the Carbon series. These devices are used by businesses to accept payments from customers, whether in-store, online, or on the go.\n\nIn addition to hardware, Verifone provides a suite of cloud services that enhance the functionality of their devices. These services include digital commerce solutions, device management, payment services, and reporting and analytics. For example, their cloud services allow businesses to manage their payment devices remotely, diagnose issues, and access detailed transaction reports. This helps businesses operate more efficiently and make informed decisions based on real-time data.\n\nVerifone makes money by selling its payment devices and charging fees for its cloud services and software solutions. The company processes a significant volume of transactions, with $335 billion worth of transactions flowing through its gateways annually. This high transaction volume underscores the trust and reliability that clients place in Verifone's solutions.\n\nIn summary, Verifone is a key player in the payments industry, offering a comprehensive range of payment devices and cloud services to businesses worldwide. Their solutions help businesses of all sizes manage payments efficiently and securely.\n\nKeywords: payments, devices, cloud services, retail, hospitality, acquirers, petrol, mPOS, POS, analytics. Founded 44 years ago with 4651.0 employees. Income streams: Subscription,\n  Commission. in 1 rounds (Stage: private_equity).",
+        "similarity": 0.7,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 4708.0,
+        "employee_12_months_growth_relative": -0.29,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.49
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.2
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.15
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.06
+          },
+          {
+            "confidence": "High",
+            "country": "Romania",
+            "percent": 0.05
+          },
+          {
+            "confidence": "High",
+            "country": "Poland",
+            "percent": 0.05
+          }
+        ],
+        "employee_geography": "Other (49%), United States (20%), Other (31%)",
+        "founded_date": "1981-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 253.0,
+        "last_round_funding_usd_million": 235.0,
+        "last_round_funding_date": "2025-04-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "sumup",
+        "domain": "sumup.com",
+        "description": "SumUp is a financial technology startup that provides easy, secure, and affordable card payment solutions for small businesses. The company offers a range of card readers that allow businesses to accept credit and debit card payments seamlessly. SumUp operates in multiple markets, including the United States, the United Kingdom, Germany, France, and many other countries across Europe and South America.\n\nSumUp primarily serves small to medium-sized businesses (SMBs) that need a reliable and cost-effective way to process card payments. These clients range from local shops and cafes to service providers and freelancers. The company\u2019s card readers are designed to be portable and user-friendly, making them ideal for businesses that operate in various environments, whether at a fixed location or on the go.\n\nThe business model of SumUp revolves around selling card readers and charging a transaction fee for each payment processed. The company offers transparent pricing with no monthly costs or contracts, charging a flat rate of 2.75% per in-person transaction. This straightforward pricing structure makes it easier for small businesses to manage their expenses without worrying about hidden fees or long-term commitments.\n\nSumUp makes money through the sale of its card readers and the transaction fees collected from each payment processed. By providing a combination of hardware and payment processing services, SumUp creates a steady revenue stream while helping businesses grow by enabling them to accept card payments easily.\n\nIn summary, SumUp is a fintech company that empowers small businesses to accept card payments with ease and security. It operates in a global market, serving SMBs with portable and affordable card readers, and generates revenue through hardware sales and transaction fees.\n\nKeywords: fintech, card readers, small businesses, payment solutions, transaction fees, portable, secure, global market, transparent pricing, SMBs. Founded 13 years ago with 3611.0 employees. Serves B2B,Consumer Products & Retail,Hospitality & Leisure. Income streams: Commission. in 5 rounds (Stage: series_d).",
+        "similarity": 0.7,
+        "industries": "Retail and E-Commerce Software",
+        "employees": 4186.0,
+        "employee_12_months_growth_relative": 15.37,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Germany",
+            "percent": 0.25
+          },
+          {
+            "confidence": "High",
+            "country": "Brazil",
+            "percent": 0.25
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.15
+          },
+          {
+            "confidence": "High",
+            "country": "Bulgaria",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.07
+          },
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.06
+          },
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.05
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.05
+          }
+        ],
+        "employee_geography": "Germany (25%), Brazil (25%), Other (50%)",
+        "founded_date": "2012-03-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 3441.158077,
+        "last_round_funding_usd_million": 60.88,
+        "last_round_funding_date": "2025-05-15",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "checkout.com",
+        "domain": "checkout.com",
+        "description": "Checkout.com is a financial technology company that provides a high-performance payments platform. The platform is designed for enterprise and scaling businesses, enabling them to process payments, send payouts, and manage card programs efficiently. Headquartered in London, Checkout.com has a global presence with offices in New York, Paris, Dubai, Hong Kong, and other locations across six continents. The company serves a diverse range of clients, including global brands such as Sony, SHEIN, Wise, Patreon, and GE HealthCare.\nCheckout.com operates in the financial technology market, focusing on payment processing solutions. The business model revolves around offering a cloud-based platform that integrates seamlessly with clients' existing systems, providing a comprehensive suite of payment services. Revenue is generated through transaction fees, subscription models, and value-added services that enhance the payment experience for businesses and their customers.\nThe company's platform is built to handle high volumes of transactions, ensuring reliability and speed. This makes it an attractive option for large enterprises and rapidly growing businesses that require robust payment solutions. By leveraging advanced technology and a global infrastructure, Checkout.com aims to streamline payment processes and support the financial operations of its clients.\nKeywords: payments platform, financial technology, enterprise, scaling businesses, cloud-based, global presence, transaction fees, payment processing, card programs, high-performance. Founded 13 years ago with 2201.0 employees. Serves B2B,Finance. Income streams: Subscription. in 4 rounds (Stage: series_d).",
+        "similarity": 0.69,
+        "industries": "Financial Software",
+        "employees": 2333.0,
+        "employee_12_months_growth_relative": 9.09,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.54
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.21
+          },
+          {
+            "confidence": "High",
+            "country": "Mauritius",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.08
+          },
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "United Kingdom (54%), Other (21%), Other (26%)",
+        "founded_date": "2012-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 1830.0,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2025-01-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "dependable_payment_processing",
+        "domain": "depsales.com",
+        "description": "CardConnect is a payment processing company that offers a range of solutions including credit card processing, POS customization, and merchant management tools through its CoPilot portal. Their typical customers are ambitious Sales Agents, ISOs, and merchants of all sizes, including small shops, online retailers, and restaurants. CardConnect claims to differentiate themselves through their comprehensive product suite, human support, and their partnership approach, which aims to cater to the goals of their agents, ISOs, and sales partners. Founded 18 years ago with 335.0 employees (201-500). 5.9% decrease in employees over 12 months. Serves B2B, focusing on b2b. Income streams: Commission. Growth stage: Late Growth. (Stage: Public). Backed by investors including First Data, FTV Capital, Cohen Circle, Fintech Acquisition. Markets: United States. Founded 19 years ago with 329.0 employees. Serves B2B. Income streams: Commission. (Stage: Public).",
+        "similarity": 0.69,
+        "industries": "Fintech",
+        "employees": 327.0,
+        "employee_12_months_growth_relative": -1.4200000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.96
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "United States (96%), Other (4%)",
+        "founded_date": "2006-01-01",
+        "hq_locations": "King of Prussia, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "discount_payment_processing",
+        "domain": "dppsales.com",
+        "description": "CardConnect is a payment processing company that offers a range of solutions including credit card processing, POS customization, and merchant management tools through its CoPilot portal. Their typical customers are ambitious Sales Agents, ISOs, and merchants of all sizes, including small shops, online retailers, and restaurants. CardConnect claims to differentiate themselves through their comprehensive product suite, human support, and their partnership approach, which aims to cater to the goals of their agents, ISOs, and sales partners. Founded 18 years ago with 335.0 employees (201-500). 5.9% decrease in employees over 12 months. Serves B2B. Income streams: Commission. Growth stage: Late Growth. (Stage: Public). Backed by investors including First Data, FTV Capital, Cohen Circle, Fintech Acquisition. Markets: United States. Founded 19 years ago with 329.0 employees. Serves B2B. Income streams: Commission. (Stage: Public).",
+        "similarity": 0.69,
+        "industries": "Fintech",
+        "employees": 327.0,
+        "employee_12_months_growth_relative": -1.4200000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.96
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "United States (96%), Other (4%)",
+        "founded_date": "2006-01-01",
+        "hq_locations": "King of Prussia, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "marathon_solutions",
+        "domain": "marathonsi.com",
+        "description": "CardConnect is a payment processing company that offers a range of solutions including credit card processing, POS customization, and merchant management tools through its CoPilot portal. Their typical customers are ambitious Sales Agents, ISOs, and merchants of all sizes, including small shops, online retailers, and restaurants. CardConnect claims to differentiate themselves through their comprehensive product suite, human support, and their partnership approach, which aims to cater to the goals of their agents, ISOs, and sales partners. Founded 18 years ago with 335.0 employees (201-500). 5.9% decrease in employees over 12 months. Serves B2B, focusing on b2b. Income streams: Commission. Growth stage: Seed. (Stage: Public). Backed by investors including First Data, FTV Capital, Cohen Circle, Fintech Acquisition. Markets: United States. Founded 19 years ago with 329.0 employees. Serves B2B. Income streams: Commission. (Stage: Public).",
+        "similarity": 0.69,
+        "industries": "Fintech",
+        "employees": 327.0,
+        "employee_12_months_growth_relative": -1.4200000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.96
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "United States (96%), Other (4%)",
+        "founded_date": "2006-11-01",
+        "hq_locations": "King of Prussia, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "modulr_finance",
+        "domain": "modulrfinance.com",
+        "description": "Modulr Finance is a fintech startup that offers a wide range of payment capabilities to businesses. The company operates in the financial services market, serving clients across various industries. Modulr's business model is centered around simplifying and automating payment processes, enabling businesses to scale and improve operational efficiency. \n\nThe company offers a suite of services including automated payments, open banking technology, and the ability to generate physical and virtual cards. Their automated payment system allows businesses to set up 'if this, then that' rules, enhancing efficiency and customer experience. The open banking technology helps protect businesses from fraud and enhances user experiences. The card generation service allows businesses to design and issue their own branded cards, offering greater flexibility to their teams and customers.\n\nModulr Finance is directly regulated by both the Financial Conduct Authority and De Nederlandsche Bank, ensuring a high level of compliance and security for its clients. The company also offers instant customer notifications, providing live updates on customer and business payments.\n\nModulr's revenue model is based on partnerships and integrations. They partner with businesses to bring embedded payments to their customers, either through existing software or by enabling new products and services. They also offer the option for businesses to add Modulr directly to their platform, refer and revenue share, or even white label.\n\nIn summary, Modulr Finance is a fintech startup that provides a comprehensive suite of payment solutions, helping businesses to streamline their operations, protect against fraud, and create new revenue streams.\n\nKeywords: Fintech, Payment Solutions, Automated Payments, Open Banking, Card Generation, Compliance, Customer Notifications, Partnerships, Integrations, Revenue Sharing. Founded 10 years ago with 407.0 employees. Serves B2B,Finance,Hospitality & Leisure. Income streams: Subscription. in 7 rounds (Stage: series_c).",
+        "similarity": 0.67,
+        "industries": "Financial Software",
+        "employees": 509.0,
+        "employee_12_months_growth_relative": 43.41,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.69
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.25
+          },
+          {
+            "confidence": "High",
+            "country": "Netherlands",
+            "percent": 0.06
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.01
+          }
+        ],
+        "employee_geography": "United Kingdom (69%), India (25%), Other (6%)",
+        "founded_date": "2015-12-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 181.19161,
+        "last_round_funding_usd_million": 102.458005,
+        "last_round_funding_date": "2022-05-18",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "nordigen",
+        "domain": "nordigen.com",
+        "description": "Nordigen, now fully integrated into GoCardless as \"GoCardless Bank Account Data,\" provides open banking connectivity and Account Information Services (AIS) through an API. This service offers access to financial data from over 2,500 banks across the UK and Europe, enabling fintech companies and businesses to streamline accounting, enhance lending decisions, and improve customer onboarding and financial management. Founded 14 years ago with 837.0 employees. Serves B2B,Finance. Income streams: Commission. in 11 rounds (Stage: series_unknown).",
+        "similarity": 0.62,
+        "industries": "Financial Software",
+        "employees": 851.0,
+        "employee_12_months_growth_relative": 1.41,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.68
+          },
+          {
+            "confidence": "High",
+            "country": "Latvia",
+            "percent": 0.19
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.07
+          },
+          {
+            "confidence": "High",
+            "country": "France",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "United Kingdom (68%), Latvia (19%), Other (13%)",
+        "founded_date": "2011-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Series G",
+        "total_funding_usd_million": 634.43,
+        "last_round_funding_usd_million": 312.0,
+        "last_round_funding_date": "2022-02-08",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "cardnetco-cardconnect",
+        "domain": "cardconnectpartners.com",
+        "description": "Cardnetco-CardConnect provides payment processing solutions that aim to make payments simple, secure, and reliable. Their offerings include integrations for adding secure payment acceptance capabilities into any application, as well as solutions for card-present, card-not-present, and mobile payments. They position themselves as a provider of effective security solutions through tokenization, P2PE, and PCI compliance, aiming to protect transactions and reduce PCI scope. Their typical customers are businesses of all sizes looking for secure and reliable payment processing solutions. Founded 13 years ago with 35.0 employees. Serves B2B. (Stage: No Funding).",
+        "similarity": 0.61,
+        "industries": "Information",
+        "employees": 35.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "2012-05-04",
+        "hq_locations": "Chicago, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "10stamps | Contigua",
+        "domain": "10stamps.de",
+        "description": "10stamps brings stamp cards into your smart phone",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-07-21",
+        "hq_locations": "Munich, Germany",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AL DESIGNS LIMITED",
+        "domain": "aldesigns.com",
+        "description": "Al Designs, Inc. offers graphic design and creative services with a focus on animated digital display/banner ads and ad production for organizations and campaigns; they serve non-profits, political campaigns, agencies, start-ups and large companies and claim specialized experience and measurable performance improvements in digital ad campaigns.",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": null,
+        "hq_locations": "Austin, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AZA Finance",
+        "domain": "azafinance.com",
+        "description": "A provider of cross-border payment solutions for businesses",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 119.0,
+        "employee_12_months_growth_relative": -31.81,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Nigeria",
+            "percent": 0.2
+          },
+          {
+            "confidence": "High",
+            "country": "South Africa",
+            "percent": 0.17
+          },
+          {
+            "confidence": "High",
+            "country": "Kenya",
+            "percent": 0.17
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.14
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.13
+          },
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.09
+          },
+          {
+            "confidence": "High",
+            "country": "Ghana",
+            "percent": 0.05
+          },
+          {
+            "confidence": "High",
+            "country": "Senegal",
+            "percent": 0.05
+          }
+        ],
+        "employee_geography": "Nigeria (20%), South Africa (17%), Other (63%)",
+        "founded_date": "2013-11-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Grant",
+        "total_funding_usd_million": 77.55,
+        "last_round_funding_usd_million": 0.1,
+        "last_round_funding_date": "2024-10-16",
+        "tier": null,
+        "gr_business_models": "Software Enabled,Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "About.me",
+        "domain": "about.me",
+        "description": "Online platform enabling users to create and maintain a curated page for self-expression",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 240.0,
+        "employee_12_months_growth_relative": -5.609999999999999,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2009-10-01",
+        "hq_locations": "Magill, Australia",
+        "funding_stage": "Secondary",
+        "total_funding_usd_million": 17.0875,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2015-03-01",
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Adoos",
+        "domain": "adoos.com",
+        "description": "An online community of classified ads with an open approach",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 4.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-10-01",
+        "hq_locations": "Almenara, Spain",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Alephpay",
+        "domain": "alephpay.com",
+        "description": "A customized credit card platform that provides Co-branded Prepaid cards and App comprehensive solutions",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2017-01-01",
+        "hq_locations": "Tel Aviv-Yafo, Israel",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "AllMyTrips",
+        "domain": "allmytrips.com",
+        "description": "Digital Marketing for Attractions and Tourism Destination: AllMyTrips has an innovative approach to support advertising campaigns with exc",
+        "similarity": 0.6,
+        "industries": "Marketing, Travel",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2012-01-01",
+        "hq_locations": "Orlando, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Argenprop",
+        "domain": "argenprop.com",
+        "description": "Real estate classifieds portal in Argentina",
+        "similarity": 0.6,
+        "industries": "Marketing, Real Estate",
+        "employees": 28.0,
+        "employee_12_months_growth_relative": 6.3100000000000005,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Argentina",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Argentina (100%)",
+        "founded_date": "1997-01-01",
+        "hq_locations": "Buenos Aires, Argentina",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Arrilo",
+        "domain": "arrilo.com",
+        "description": "Democratise second home ownership",
+        "similarity": 0.6,
+        "industries": "Fintech, Real Estate",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2022-01-01",
+        "hq_locations": "Vilnius, Lithuania",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "As Seen on TV",
+        "domain": "astvinc.com",
+        "description": "A direct marketer of consumer products in the household, outdoor, health, beauty, fitness, clothing, electronics, toys, pets, and automotive categories",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 95.0,
+        "employee_12_months_growth_relative": 1.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Clearwater, United States",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 12.2,
+        "last_round_funding_usd_million": 12.2,
+        "last_round_funding_date": "2011-11-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Aswaqcity",
+        "domain": "aswaqcity.com",
+        "description": "Arab network for general classifieds",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Automattie.ai",
+        "domain": "getautomattie.com",
+        "description": "We believe in Ai technology as a tool to improve brand experience for every company!",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "BUX",
+        "domain": "bux.com",
+        "description": "Invest in stocks, ETFs and crypto with BUX Zero",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 165.0,
+        "employee_12_months_growth_relative": 9.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-01-01",
+        "hq_locations": "Amsterdam, Netherlands",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 175.03,
+        "last_round_funding_usd_million": 80.0,
+        "last_round_funding_date": "2021-04-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Belgravia Villas",
+        "domain": "belgraviavillassg.com",
+        "description": "Belgravia Villas | 6100-7705 (Showflat)",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "BitPesa",
+        "domain": "bitpesa.co",
+        "description": "Pan-African platform redefining how businesses make payments to and from sub-Saharan Africa",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 200.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2013-01-01",
+        "hq_locations": null,
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 15.0,
+        "last_round_funding_usd_million": 15.0,
+        "last_round_funding_date": "2019-10-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Blog To Great",
+        "domain": "blogtogreat.com",
+        "description": "Blog tips and information for the creation, design, marketing, promotion and SEO of a great, successful, profitable blog",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "BlogRolled",
+        "domain": "blogrolled.com",
+        "description": "Service that allows bloggers to sell spots within their blogrolls",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Goshen, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Bluepay",
+        "domain": "bluepay.com",
+        "description": "Clover is a financial technology company that offers point-of-sale hardware and software to businesses. Their typical customers are small to medium-sized businesses in various industries such as retail, food and beverage, and service-based businesses. Clover differentiates itself by providing a comprehensive and customizable solution that includes hardware, software, and payment processing, all designed to help businesses streamline their operations and improve customer interactions. Founded 21 years ago with 1356.0 employees (500+). 20.0% growth in employees over 12 months. Serves B2B, focusing on b2b. Income streams: Commission. Growth stage: Late Growth. in 3 rounds (Stage: Public) Last funded: 2019. Backed by investors including Sutter Hill Ventures, First Data, Andreessen Horowitz, Morado Venture Partners. Markets: United States. Founded 22 years ago with 1489.0 employees. Serves B2B. Income streams: Commission. in 3 rounds (Stage: SERIES C).",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 1672.0,
+        "employee_12_months_growth_relative": 16.64,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.69
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.13
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.05
+          }
+        ],
+        "employee_geography": "United States (69%), Other (13%), Other (17%)",
+        "founded_date": "2003-12-01",
+        "hq_locations": "Sunnyvale, United States",
+        "funding_stage": "Series C",
+        "total_funding_usd_million": 0.0,
+        "last_round_funding_usd_million": 0.0,
+        "last_round_funding_date": "2019-03-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Brandist",
+        "domain": "brandist.co",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2013-01-01",
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Buzzon",
+        "domain": "buzzon.khaleejtimes.com",
+        "description": "General classifieds portal in Dubai",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Marketing",
+        "employees": 578.0,
+        "employee_12_months_growth_relative": 3.16,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Arab Emirates",
+            "percent": 0.9
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.1
+          }
+        ],
+        "employee_geography": "United Arab Emirates (90%), Other (10%)",
+        "founded_date": "1978-04-01",
+        "hq_locations": "Dubai, United Arab Emirates",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Content & Publishing",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Capital Processing Network",
+        "domain": "capitalprocessingnetwork.com",
+        "description": "Capital Processing Network offers credit card processing and merchant account services. Featuring EMV-ready credit card terminals and POS processing.",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 491.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2006-01-01",
+        "hq_locations": "Phoenix, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Charlie Charge",
+        "domain": "charliecharge.com",
+        "description": "Charlie charge \u2013 Charge Anything Anywhere",
+        "similarity": 0.6,
+        "industries": "Energy, Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2020-10-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Cino",
+        "domain": "letslama.com",
+        "description": "Making payments social",
+        "similarity": 0.6,
+        "industries": "Financial Software",
+        "employees": 22.0,
+        "employee_12_months_growth_relative": 8.450000000000001,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2022-04-27",
+        "hq_locations": "Tallinn, Estonia",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 6.775495,
+        "last_round_funding_usd_million": 3.718195,
+        "last_round_funding_date": "2025-03-04",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Citibann",
+        "domain": "citibann.com",
+        "description": "General classified ads in the UAE  targeting Swedish expats",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2014-01-01",
+        "hq_locations": "Abu Dhabi, United Arab Emirates",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Clasiesotericos",
+        "domain": "clasiesotericos.com",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Climate Savers",
+        "domain": "climatesavers.io",
+        "description": "Save money and get rewarded for living sustainably",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 4.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-04-25",
+        "hq_locations": "Amsterdam, Netherlands",
+        "funding_stage": "Pre-Seed",
+        "total_funding_usd_million": 0.10544,
+        "last_round_funding_usd_million": 0.10544,
+        "last_round_funding_date": "2024-12-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "CloudPay",
+        "domain": "cloudpay.com",
+        "description": "CloudPay provides multi-national payroll technologies and services",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 1460.0,
+        "employee_12_months_growth_relative": 2.5,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Philippines",
+            "percent": 0.3
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.24
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.15
+          },
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.13
+          },
+          {
+            "confidence": "High",
+            "country": "Costa Rica",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "Hungary",
+            "percent": 0.07
+          }
+        ],
+        "employee_geography": "Philippines (30%), United Kingdom (24%), Other (47%)",
+        "founded_date": "1996-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 375.45,
+        "last_round_funding_usd_million": 120.0,
+        "last_round_funding_date": "2024-08-08",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Coin-In",
+        "domain": "coin-in.com",
+        "description": "Coin-In connects players to their favorite real-world casinos 24/7, anytime and anywhere",
+        "similarity": 0.6,
+        "industries": "Gaming, Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-01-01",
+        "hq_locations": "Los Angeles, United States",
+        "funding_stage": "Series A",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2013-02-06",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Comalex",
+        "domain": "heartlandschoolsolutions.com",
+        "description": "K-12 child nutrition software & payments company",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 84.0,
+        "employee_12_months_growth_relative": -7.870000000000001,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "1998-01-01",
+        "hq_locations": "Rochester, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software Enabled",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Comdata",
+        "domain": "comdata.com",
+        "description": "Payment Innovation, Integrated Financial Solutions",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 1430.0,
+        "employee_12_months_growth_relative": -0.06999999999999999,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.88
+          },
+          {
+            "confidence": "High",
+            "country": "Italy",
+            "percent": 0.06
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "United States (88%), Italy (6%), Other (6%)",
+        "founded_date": "1969-01-01",
+        "hq_locations": "Brentwood, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Cygen POS Software",
+        "domain": "cygenpos.com",
+        "description": "Point of Sale, Retail Pos, Retail Mamangement Software, Restaurant Pos, Restaurant Management Software, Website Builder",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 16.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Dakko",
+        "domain": "dakko.io",
+        "description": "Access your earned wage and manage all your Financial, Health and Wellbeing needs in one place",
+        "similarity": 0.6,
+        "industries": "Fintech, Health",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": -25.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2020-01-01",
+        "hq_locations": "Singapore",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2022-01-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Daysk",
+        "domain": "daysk.com",
+        "description": "Introducing a new way to work on the go - Daysk",
+        "similarity": 0.6,
+        "industries": "Fintech, Real Estate",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2017-01-01",
+        "hq_locations": "Barcelona, Spain",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 0.235791,
+        "last_round_funding_usd_million": 0.235791,
+        "last_round_funding_date": "2018-05-18",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Decenda",
+        "domain": "decenda.com",
+        "description": "Decenda combines various centralized and decentralized solutions for everyday problems that online buyers, sellers and publishers face every day",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2021-10-01",
+        "hq_locations": "Marbella, Spain",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Demarc Extension Nationwide",
+        "domain": "demarcextension.com",
+        "description": "DEMARC EXTENSION NATIONWIDE :: A Brand of Concert Technologies",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Digit Insurance",
+        "domain": "godigit.com",
+        "description": "A financial services company that provides general insurance services",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 3105.0,
+        "employee_12_months_growth_relative": 9.02,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 1
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0
+          }
+        ],
+        "employee_geography": "India (100%), Other (0%)",
+        "founded_date": "2016-01-01",
+        "hq_locations": "Bangalore, India",
+        "funding_stage": "Secondary",
+        "total_funding_usd_million": 596.1728830000001,
+        "last_round_funding_usd_million": 10.452975,
+        "last_round_funding_date": "2026-06-04",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Dovetail",
+        "domain": "dovetailsystems.com",
+        "description": "Develops and implements software which supports the processing of banking payments",
+        "similarity": 0.6,
+        "industries": "Real Estate and Rental and Leasing",
+        "employees": 6.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "E-Commerce News Magazin",
+        "domain": "ecommerce-news-magazin.de",
+        "description": "E-Commerce News Magazin publishes editorial content and guides about e-commerce operations with a focus on payment methods, checkout optimization, and ecommerce website design; they target e-commerce professionals and informed consumers and position themselves as a specialist news and analysis source for digital commerce topics.",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Germany",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Content & Publishing",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "EZEEBUY Experiences LLC",
+        "domain": "ezeebuyexperiences.com",
+        "description": "EZEEBUY is revolutionizing retail with AI, harnessing technology to blend online shopping ease with in-store experiences",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-02-01",
+        "hq_locations": "Austin, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Ebury",
+        "domain": "ebury.com",
+        "description": "Currency exchange specialist for FX Risk Management and Global Payment Services",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 1998.0,
+        "employee_12_months_growth_relative": 13.919999999999998,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.51
+          },
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.33
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.16
+          }
+        ],
+        "employee_geography": "Other (51%), Spain (33%), Other (16%)",
+        "founded_date": "2009-01-01",
+        "hq_locations": "Amsterdam, Netherlands",
+        "funding_stage": "Secondary",
+        "total_funding_usd_million": 172.781783,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2026-04-30",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Emerchantpay",
+        "domain": "emerchantpay.com",
+        "description": "We are an online, mobile & POS payment service provider helping eCommerce businesses of all sizes & sectors accept payments via multiple customer touch points",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 358.0,
+        "employee_12_months_growth_relative": -5.52,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Bulgaria",
+            "percent": 0.75
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.18
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "Bulgaria (75%), Other (18%), Other (6%)",
+        "founded_date": "2002-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Emoot",
+        "domain": "emoot.io",
+        "description": "Emoot is the evolution of the Gift Card.  Our Web App & mobile wallet helps friends, families & colleagues send money as a gift, and make it meaningful.  ",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 4.0,
+        "employee_12_months_growth_relative": -31.929999999999996,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Canada",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Canada (100%)",
+        "founded_date": "2022-03-30",
+        "hq_locations": "Vancouver, Canada",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Esports Horizon",
+        "domain": "esportshorizon.com",
+        "description": "A platform where players can participate in different coaching sessions, become a coach or they can practice in different tournaments",
+        "similarity": 0.6,
+        "industries": "Gaming, Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-11-01",
+        "hq_locations": "Balatonfenyves, Hungary",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 0.29,
+        "last_round_funding_usd_million": 0.29,
+        "last_round_funding_date": "2018-01-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Exactuals",
+        "domain": "exactuals.com",
+        "description": "SaaS Payments company focused on royalty/residual based markets Exactuals helps companies and marketplaces pay thousands of non-employees",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 22.0,
+        "employee_12_months_growth_relative": -12.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2011-07-01",
+        "hq_locations": "Los Angeles, United States",
+        "funding_stage": "Series B",
+        "total_funding_usd_million": 10.6,
+        "last_round_funding_usd_million": 10.6,
+        "last_round_funding_date": "2017-02-15",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "FIRMDER",
+        "domain": "firmder.com",
+        "description": "Service application for registering companies around the world",
+        "similarity": 0.6,
+        "industries": "Fintech, Legal",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": -47.160000000000004,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Germany",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Germany (100%)",
+        "founded_date": "2020-07-20",
+        "hq_locations": "United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Fabit",
+        "domain": "fabit.app",
+        "description": "Digital coach for better money management",
+        "similarity": 0.6,
+        "industries": "Education, Fintech",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2021-01-01",
+        "hq_locations": "Berlin, Germany",
+        "funding_stage": "Angel",
+        "total_funding_usd_million": 0.0,
+        "last_round_funding_usd_million": 0.0,
+        "last_round_funding_date": "2021-07-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "FanDriveMedia",
+        "domain": "fandrivemedia.com",
+        "description": "A mobile entertainment technology company that also provides marketing services to Raycom media and some of the largest TV Station groups",
+        "similarity": 0.6,
+        "industries": "Marketing, Sports",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": -23.52,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "United States (100%)",
+        "founded_date": "2005-12-01",
+        "hq_locations": "Los Angeles, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Figg Wealth",
+        "domain": "figgwealth.com",
+        "description": "AI-Driven Intelligence. Consolidated wealth in the palm of your hands!",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 9.0,
+        "employee_12_months_growth_relative": -17.06,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2021-01-01",
+        "hq_locations": "Dubai, United Arab Emirates",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 9.270000000000001,
+        "last_round_funding_usd_million": 3.4,
+        "last_round_funding_date": "2024-09-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Finutive",
+        "domain": "finutive.com",
+        "description": "Online management for freelancers and companies that provides support in all areas of company",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 43.0,
+        "employee_12_months_growth_relative": 1.9800000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Spain (100%)",
+        "founded_date": "2017-01-01",
+        "hq_locations": "Madrid, Spain",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": 0.24000000000000002,
+        "last_round_funding_usd_million": 0.2,
+        "last_round_funding_date": "2020-12-01",
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Firebox",
+        "domain": "firebox.com",
+        "description": "The coolest things you can buy",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 22.0,
+        "employee_12_months_growth_relative": -6.800000000000001,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1998-06-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Retailer",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "GCC Exchange",
+        "domain": "gccexchange.com",
+        "description": "UAE based fast growing money transfer, foreign exchange and payment solution brand for individuals and businesses",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 323.0,
+        "employee_12_months_growth_relative": 14.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Arab Emirates",
+            "percent": 0.87
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.07
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "United Arab Emirates (87%), Other (7%), Other (6%)",
+        "founded_date": "2005-02-12",
+        "hq_locations": "Dubai, United Arab Emirates",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Galleria Seven",
+        "domain": "galleriaseven.com",
+        "description": "A one-stop-shop destination that offers the experience of dining, shopping, sales & events under one roof",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "San Francisco, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "GetDeal",
+        "domain": "pchelp.de",
+        "description": "Find coupons all the trendy shops at a glance",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": null,
+        "funding_stage": "Undisclosed",
+        "total_funding_usd_million": 0.0,
+        "last_round_funding_usd_million": 0.0,
+        "last_round_funding_date": "2013-06-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Gifty",
+        "domain": "gifty.nl",
+        "description": "Offering a complete gift card solution online and instore",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 12.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Netherlands",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Netherlands (100%)",
+        "founded_date": "2017-01-01",
+        "hq_locations": "IJsselstein, Netherlands",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Global Miles Technology Inc.",
+        "domain": "globalmiles.com",
+        "description": "A blockchain platform enabling the miles distributed across the world to be used and managed by a mobile application for frequent flyers and airlines",
+        "similarity": 0.6,
+        "industries": "Fintech, Travel",
+        "employees": 11.0,
+        "employee_12_months_growth_relative": 0.0,
+        "employee_locations_array": [
+          {
+            "confidence": "Medium",
+            "country": "Turkey",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Turkey (100%)",
+        "founded_date": "2016-01-01",
+        "hq_locations": "Istanbul, Turkey",
+        "funding_stage": "Non-Equity Assistance",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2021-03-17",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Grab Financial Group",
+        "domain": "grab.com",
+        "description": "Subsidiary of Grab ridehailing company, focused on financial products for consumers and SMEs",
+        "similarity": 0.6,
+        "industries": "Food, Transportation",
+        "employees": 56187.0,
+        "employee_12_months_growth_relative": 11.450000000000001,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Indonesia",
+            "percent": 0.52
+          },
+          {
+            "confidence": "High",
+            "country": "Singapore",
+            "percent": 0.14
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.14
+          },
+          {
+            "confidence": "High",
+            "country": "Malaysia",
+            "percent": 0.14
+          },
+          {
+            "confidence": "High",
+            "country": "Philippines",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "Indonesia (52%), Singapore (14%), Other (34%)",
+        "founded_date": "2012-06-01",
+        "hq_locations": "Singapore, Singapore",
+        "funding_stage": "Post-IPO Financing",
+        "total_funding_usd_million": 18422.75,
+        "last_round_funding_usd_million": 1500.0,
+        "last_round_funding_date": "2025-06-10",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Greencent",
+        "domain": "greencent.io",
+        "description": "Greencent is a new-generation loyalty system rewarding you for the CO2 you spare in the mobility and food areas",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Fintech",
+        "employees": 3.0,
+        "employee_12_months_growth_relative": 50.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2020-01-01",
+        "hq_locations": "Berlin, Germany",
+        "funding_stage": "Pre-Seed",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2023-09-05",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Halo Small Business Solutions",
+        "domain": "halosmallbusinesssolutions.com",
+        "description": "Credit Card Processing | Payroll Processing | Business Financing | Payments - Payroll - Financing - Consulting",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2009-07-01",
+        "hq_locations": "New York City, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Heartland Payment Systems",
+        "domain": "heartlandpaymentsystems.com",
+        "description": "Delivers fast, secure payment processing & business solutions to business locations nationwide",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "1997-01-01",
+        "hq_locations": "Edmond, United States",
+        "funding_stage": "Post-IPO Financing",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2016-04-25",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Hiddme",
+        "domain": "hiddme.com",
+        "description": "Cybersecurity services for risk assessment and penetration testing",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2015-01-01",
+        "hq_locations": "Tampere, Finland",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "ICityGuide",
+        "domain": "icityguide.online",
+        "description": "Buyer flow marketplace based on city navigator for tourists, AI routes generator, GPS navigation, voice guidance and augmented reality",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2015-12-01",
+        "hq_locations": "Berlin, Germany",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Incredible",
+        "domain": "getincredible.com",
+        "description": "Repayments infrastructure for borrowers and lenders",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 8.0,
+        "employee_12_months_growth_relative": 11.17,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2022-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Pre-Seed",
+        "total_funding_usd_million": 1.12,
+        "last_round_funding_usd_million": 1.0,
+        "last_round_funding_date": "2024-05-14",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "InspiraFS",
+        "domain": "inspirafs.com",
+        "description": "Provides payroll IRA, automatic rollover IRA, and outsourced IRA recordkeeping solutions",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 7.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2008-01-01",
+        "hq_locations": "Pittsburgh, United States",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Instagarage",
+        "domain": "instagarage.com",
+        "description": "E-commerce platform offering gift cards from multiple retailers and stores",
+        "similarity": 0.6,
+        "industries": "Fintech, Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2007-05-07",
+        "hq_locations": "New Orleans, United States",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 0.025,
+        "last_round_funding_usd_million": 0.025,
+        "last_round_funding_date": "2007-05-10",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Insuroo Ltd",
+        "domain": "insuroo.co.uk",
+        "description": null,
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-01-01",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Iris",
+        "domain": "iris.finance",
+        "description": "Iris is a social trading stock app which allows users to connect a brokerage account and follow friends' trades/portfolios in real time",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 38.0,
+        "employee_12_months_growth_relative": 32.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2020-01-01",
+        "hq_locations": "Los Angeles, United States",
+        "funding_stage": "Crowdfunding",
+        "total_funding_usd_million": 0.766897,
+        "last_round_funding_usd_million": 0.766897,
+        "last_round_funding_date": "2022-01-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Irish Brands",
+        "domain": "irishbrands.com",
+        "description": "An International Social Commerce Platform Dedicated to Irish Brands. Share Your Brand with the World & Story tell... Launching in 2014.",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": null,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": null,
+        "hq_locations": "Portadown, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Jaja Finance",
+        "domain": "jaja.co.uk",
+        "description": "Jaja is a fintech startup dedicated to simplifying the credit card experience. The company offers a mobile-first credit card that aims to revolutionize how people access, spend, and manage their money. Jaja's primary clients are individual consumers who are looking for a more intuitive and transparent way to handle their credit. The company operates in the consumer finance market, specifically focusing on credit card services.\n\nJaja's business model revolves around providing a digital-first credit card experience. Users can apply for a Jaja credit card through their mobile app or website. Once approved, they can manage their accounts entirely online, including making payments, reviewing transactions, and setting up direct debits. The company also offers practical guidance for users facing financial difficulties, such as those affected by the coronavirus pandemic, and provides tools to help manage persistent debt.\n\nJaja makes money primarily through interest charges on outstanding credit card balances and fees associated with card usage. Additionally, they have partnerships with established financial institutions like the Bank of Ireland UK and the AA, which helps them expand their reach and credibility in the market.\n\nThe company emphasizes security and convenience, offering features like instant card activation through their app and immediate action for lost or stolen cards. Jaja's approach is designed to provide users with complete visibility and control over their spending, making it easier to stay on top of their finances.\n\nIn summary, Jaja is a forward-thinking fintech company that leverages technology to offer a seamless and user-friendly credit card experience. Their focus on simplicity, transparency, and customer support sets them apart in the competitive consumer finance market.\n\nKeywords: fintech, credit card, mobile-first, consumer finance, digital banking, financial management, debt assistance, partnerships, security, transparency. Founded 10 years ago with 383.0 employees. Serves B2B,B2C. Income streams: Commission. in 5 rounds (Stage: convertible_note).",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 445.0,
+        "employee_12_months_growth_relative": 27.3,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.82
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.1
+          },
+          {
+            "confidence": "High",
+            "country": "Ireland",
+            "percent": 0.09
+          }
+        ],
+        "employee_geography": "United Kingdom (82%), Other (10%), Other (9%)",
+        "founded_date": "2015-09-25",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": "Growth Equity",
+        "total_funding_usd_million": 254.375497,
+        "last_round_funding_usd_million": 30.249983,
+        "last_round_funding_date": "2025-11-11",
+        "tier": null,
+        "gr_business_models": "Software Enabled,Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Joltee",
+        "domain": "joltee.fr",
+        "description": "L'assurance d\u00e9di\u00e9e aux v\u00e9hicules \u00e9lectriques qui favorise la mobilit\u00e9 durable",
+        "similarity": 0.6,
+        "industries": "Fintech, Transportation",
+        "employees": 9.0,
+        "employee_12_months_growth_relative": -25.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2019-06-13",
+        "hq_locations": "Paris, France",
+        "funding_stage": "Pre-Seed",
+        "total_funding_usd_million": 0.520677,
+        "last_round_funding_usd_million": 0.520677,
+        "last_round_funding_date": "2021-12-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Jux",
+        "domain": "juxapp.co.uk",
+        "description": "Jux is an innovative new service for consumers and retailers delivering value to all parties by taking advantage of unique customer proposition and Open Banking standards",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 9.0,
+        "employee_12_months_growth_relative": -18.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2007-11-19",
+        "hq_locations": "London, United Kingdom",
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "KOKO Networks",
+        "domain": "kokonetworks.com",
+        "description": "Technology for life in the world's fastest growing cities",
+        "similarity": 0.6,
+        "industries": "Energy, Fintech",
+        "employees": 1075.0,
+        "employee_12_months_growth_relative": -18.5,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Kenya",
+            "percent": 0.76
+          },
+          {
+            "confidence": "High",
+            "country": "India",
+            "percent": 0.14
+          },
+          {
+            "confidence": "High",
+            "country": "Rwanda",
+            "percent": 0.06
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "Kenya (76%), India (14%), Other (10%)",
+        "founded_date": "2013-01-01",
+        "hq_locations": "Nairobi, Kenya",
+        "funding_stage": "Debt",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2025-03-13",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Karta",
+        "domain": "conkarta.com",
+        "description": "Karta offers virtual credit cards for businesses, providing a financial operating system that enables businesses, e-commerce platforms, advertisers, marketers, and startups to manage their spending. They position themselves as a solution for teams looking to streamline their finances, create budgets, and collaborate effectively. Their typical customers are businesses across various industries seeking to take control of their spending without the hassle, and aiming to grow fast and stay organized in their financial operations. Founded 4 years ago with 40.0 employees. Serves B2B,Professional Services. Income streams: Advertising. in 1 rounds (Stage: SEED).",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 19.0,
+        "employee_12_months_growth_relative": 306.89000000000004,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Ecuador",
+            "percent": 0.46
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.38
+          },
+          {
+            "confidence": "High",
+            "country": "Thailand",
+            "percent": 0.08
+          },
+          {
+            "confidence": "High",
+            "country": "Brazil",
+            "percent": 0.08
+          }
+        ],
+        "employee_geography": "Ecuador (46%), United States (38%), Other (16%)",
+        "founded_date": "2022-01-01",
+        "hq_locations": "Miami, United States",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 10.8,
+        "last_round_funding_usd_million": 5.4,
+        "last_round_funding_date": "2025-10-01",
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Keepz",
+        "domain": "keepz.me",
+        "description": "QR code payment solution for multi-channel transactions",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 25.0,
+        "employee_12_months_growth_relative": 30.330000000000002,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Georgia",
+            "percent": 1
+          }
+        ],
+        "employee_geography": "Georgia (100%)",
+        "founded_date": "2023-05-01",
+        "hq_locations": "Tbilisi, Georgia",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": 1.8,
+        "last_round_funding_usd_million": 1.8,
+        "last_round_funding_date": "2023-11-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Knowmail",
+        "domain": "theproductive.me",
+        "description": "Personal Messaging Solution",
+        "similarity": 0.6,
+        "industries": "Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2014-01-01",
+        "hq_locations": "Tel Aviv-Yafo, Israel",
+        "funding_stage": "Series Unknown",
+        "total_funding_usd_million": 4.7,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2018-12-01",
+        "tier": null,
+        "gr_business_models": "Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "LEWIS PR",
+        "domain": "lewispr.com",
+        "description": "We've moved! Find us @teamlewisglobal and https://t.co/0IJBgVdCbF",
+        "similarity": 0.6,
+        "industries": "Marketing, Media",
+        "employees": 782.0,
+        "employee_12_months_growth_relative": -0.84,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.23
+          },
+          {
+            "confidence": "High",
+            "country": "United Kingdom",
+            "percent": 0.17
+          },
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.15
+          },
+          {
+            "confidence": "High",
+            "country": "Spain",
+            "percent": 0.13
+          },
+          {
+            "confidence": "High",
+            "country": "Singapore",
+            "percent": 0.09
+          },
+          {
+            "confidence": "High",
+            "country": "Netherlands",
+            "percent": 0.08
+          },
+          {
+            "confidence": "High",
+            "country": "Germany",
+            "percent": 0.08
+          },
+          {
+            "confidence": "High",
+            "country": "Italy",
+            "percent": 0.06
+          }
+        ],
+        "employee_geography": "Other (23%), United Kingdom (17%), Other (59%)",
+        "founded_date": "1995-01-01",
+        "hq_locations": null,
+        "funding_stage": null,
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": null,
+        "tier": null,
+        "gr_business_models": "Services",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Lemonade",
+        "domain": "lemonade.com",
+        "description": "AI-powered insurance for renters, homeowners, car, and pet.",
+        "similarity": 0.6,
+        "industries": "Insurance Software",
+        "employees": 1402.0,
+        "employee_12_months_growth_relative": 6.85,
+        "employee_locations_array": [
+          {
+            "confidence": "High",
+            "country": "United States",
+            "percent": 0.57
+          },
+          {
+            "confidence": "High",
+            "country": "Israel",
+            "percent": 0.28
+          },
+          {
+            "confidence": "High",
+            "country": "Netherlands",
+            "percent": 0.12
+          },
+          {
+            "confidence": "High",
+            "country": "Other",
+            "percent": 0.04
+          }
+        ],
+        "employee_geography": "United States (56%), Israel (28%), Other (16%)",
+        "founded_date": "2015-01-01",
+        "hq_locations": "New York, United States",
+        "funding_stage": "Post-IPO Financing",
+        "total_funding_usd_million": 795.32,
+        "last_round_funding_usd_million": 150.0,
+        "last_round_funding_date": "2023-07-01",
+        "tier": null,
+        "gr_business_models": "Services,Software",
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Letz.do",
+        "domain": "letz.do",
+        "description": "AI powered ChatBot that make you Enjoy Productivity",
+        "similarity": 0.6,
+        "industries": "Enterprise Software, Marketing",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": null,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2016-01-01",
+        "hq_locations": "Skopje, North Macedonia",
+        "funding_stage": "Non-Equity Assistance",
+        "total_funding_usd_million": 0.111501,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2017-04-01",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      },
+      {
+        "name": "Loyalty Republic (Previously PointsToPay)",
+        "domain": "loyaltyrepublic.com.au",
+        "description": "Fully Customable Loyalty Programs. Scalable All-In-One Loyalty Solution. Engage, reward & incentivise your way",
+        "similarity": 0.6,
+        "industries": "Fintech",
+        "employees": 1.0,
+        "employee_12_months_growth_relative": -67.0,
+        "employee_locations_array": null,
+        "employee_geography": null,
+        "founded_date": "2018-01-01",
+        "hq_locations": "Melbourne, Australia",
+        "funding_stage": "Seed",
+        "total_funding_usd_million": null,
+        "last_round_funding_usd_million": null,
+        "last_round_funding_date": "2022-05-25",
+        "tier": null,
+        "gr_business_models": null,
+        "sources": [
+          "pulse_database"
+        ]
+      }
+    ],
+    "error": null,
+    "message": null
+  },
+  "enrichment": {
+    "space_name": "Bank-to-bank payment infrastructure & direct debit networks",
+    "space_themes": [
+      "Account-to-account payments",
+      "Direct debit automation",
+      "Global payment rails",
+      "Recurring billing infrastructure",
+      "Open banking integration",
+      "Cross-border collections"
+    ],
+    "seed_summary": "GoCardless built its franchise on pull-based bank payments \u2014 direct debit and account-to-account transfers \u2014 serving businesses that need predictable, recurring revenue collection without the card network friction. Its distinctive angle is operating across multiple direct debit schemes globally (Bacs, SEPA, ACH, Autogiro, and others) through a single API, which few competitors have replicated at scale. That network of scheme memberships and local banking relationships is genuinely hard to replicate and positions GoCardless as infrastructure, not just a payments wrapper.",
+    "space_summary": "This market sits at the intersection of legacy banking rails and modern fintech infrastructure, meaning the opportunity is large but the competitive moat is heavily tied to regulatory licensing, scheme access, and bank relationships rather than pure product innovation. Competition fractures along use-case lines: card-centric players like Checkout.com and PayPal dominate enterprise card acquiring, while GoCardless and Payconiq occupy the narrower but stickier account-to-account lane. The space benefits from secular tailwinds \u2014 open banking mandates, rising card interchange costs pushing merchants toward alternatives \u2014 but direct debit specifically is a mature rail with limited glamour, which has kept it underfunded relative to its strategic importance.",
+    "position_summary": "GoCardless is the clearest pure-play bet on global direct debit and ACH infrastructure, and that specificity is both its greatest strength and its central investment tension. No other company in this peer set has built genuine multi-scheme, cross-border pull payment coverage; Payconiq is geographically limited and Banking Circle focuses on liquidity rather than collections. The vulnerability is that open banking-native A2A players and well-capitalized platforms like PayPal could embed equivalent functionality over time, commoditizing the API layer. With $634M raised and 851 employees showing barely 1.4% headcount growth, the business appears to be in an efficiency phase rather than a land-grab, which raises the question of whether it can expand TAM beyond recurring billing into broader A2A use cases before the window closes. The investment decision hinges on whether its scheme membership network and merchant lock-in through embedded workflows constitute a durable moat or merely a head start.",
+    "incumbents_summary": "The incumbents here are largely card-centric or broad-based payment platforms \u2014 PayPal, Checkout.com, and SumUp \u2014 whose dominance is built on card acquiring, merchant distribution, and consumer wallet adoption rather than direct debit rails. This means they are not GoCardless's direct competitive threat in recurring pull payments today, but they represent the risk of adjacent expansion: any of these players could bundle A2A collection as a feature at favorable pricing to retain large merchants. VeriFone is a point-of-sale hardware business increasingly irrelevant to software-driven recurring billing, and Banking Circle operates more as a financial utility for fintechs than a merchant-facing competitor.",
+    "established_summary": "The established challenger cohort is notably fragmented and largely tangential to GoCardless's core thesis \u2014 Cardless, Deserve, and Imprint are co-branded credit card plays with no overlap, and Plastiq's bankruptcy is a cautionary signal about the difficulty of forcing card rails into non-card contexts. Payconiq is the most structurally comparable company but is confined to Benelux and lacks GoCardless's scheme breadth. Transactis occupies a niche in digital billing and receivables management that could make it a bolt-on acquisition candidate rather than a real rival. The absence of a well-funded, globally ambitious direct debit pure-play in this cohort actually reinforces GoCardless's relative positioning, though it also suggests investors have not rushed to back the category, which warrants scrutiny.",
+    "blurbs": {
+      "gocardless.com": "Global direct debit platform for collecting recurring payments.",
+      "cardconnect.com": "Payment processing company serving businesses of all sizes.",
+      "cardless.com": "Platform for launching co-branded digital credit card programs.",
+      "3cpayment.com": "Secure cashless payment solution for consumers and businesses.",
+      "bankingcircle.com": "Global cross-border payments and liquidity management for financial businesses.",
+      "cardtek.com": "End-to-end digital payment solutions and secure technologies provider.",
+      "deserve.com": "Credit card solutions for students, businesses, and co-branded programs.",
+      "imprint.co": "Co-branded credit card program design and management platform.",
+      "kard.eu": "Rewards-as-a-service API platform for loyalty program solutions.",
+      "paypal.com": "Leading global financial technology company providing digital payments platform.",
+      "payconiq.com": "Account-to-account payment solutions with real-time processing focus.",
+      "plastiq.com": "Platform enabling bill and expense payments via credit cards.",
+      "transactis.com": "Digital billing and payment processing solutions for receivables management.",
+      "verifone.com": "Payment solutions provider serving retailers, hospitality, and acquirers globally.",
+      "sumup.com": "Card payment solutions and hardware for small businesses.",
+      "checkout.com": "High-performance payments platform for enterprise and scaling businesses.",
+      "modulrfinance.com": "Fintech platform offering diverse payment capabilities to businesses.",
+      "nordigen.com": "Open banking connectivity and account data access API provider.",
+      "cardconnectpartners.com": "Payment processing solutions for card-present and card-not-present transactions."
+    },
+    "summaries": {
+      "cardconnect.com": "CardConnect provides comprehensive payment processing solutions designed to simplify and secure transactions for businesses across market sizes. The company operates in the fintech market delivering diverse payment solutions to meet client needs. CardConnect serves the broader merchant and payment processing ecosystem.",
+      "cardless.com": "Cardless enables businesses to launch co-branded digital credit card programs quickly and efficiently through its platform. The company serves brands seeking to offer credit card programs to their customers. Cardless focuses on streamlining the process of creating and managing co-branded card products.",
+      "3cpayment.com": "3C Payment provides cashless payment solutions with focus on security and specialized transaction flows. The company serves clients requiring secure payment processing capabilities. 3C Payment offers transaction services supporting consumer and business payment needs.",
+      "bankingcircle.com": "Banking Circle provides cross-border payments, accounts, and liquidity management services targeted at banks, payment businesses, and marketplaces. The platform is designed to serve financial institutions and payment infrastructure companies requiring global banking solutions. The company focuses on supporting payments businesses and marketplaces with comprehensive banking capabilities.",
+      "cardtek.com": "Cardtek, operating under the PayCore brand, provides end-to-end digital payment solutions and secure technologies. The company serves financial institutions, payment service providers, and telecom operators. Cardtek focuses on delivering innovative payment infrastructure and security solutions to financial services clients.",
+      "deserve.com": "Deserve specializes in credit card solutions tailored for different market segments including college students and businesses seeking co-branded credit cards. The company operates in the fintech sector providing credit-related financial products. Deserve serves both individual and business segments with customized card offerings.",
+      "imprint.co": "Imprint specializes in designing, launching, and managing co-branded credit card programs in partnership with established American brands. The company focuses on creating credit card products appealing to modern consumers. Imprint serves brands seeking to develop customized credit card programs for their customer base.",
+      "kard.eu": "Kard operates a rewards-as-a-service API platform empowering neobanks and financial institutions to offer tailored loyalty programs. The company was founded in 2015 with a focus on transforming customer loyalty program capabilities. Kard serves financial institutions and fintechs seeking to integrate rewards functionality.",
+      "paypal.com": "PayPal operates a leading global digital payments platform serving a broad range of users and merchants. The company is positioned as a major financial technology provider processing payments at scale globally. PayPal's platform enables digital money transfers and payment processing across multiple channels and markets.",
+      "payconiq.com": "Payconiq International provides account-to-account payment solutions featuring real-time processing and value-added services. The company serves banks, merchants, and payment service providers modernizing their payment capabilities. Payconiq focuses on flexible payment features for seamless transaction processing.",
+      "plastiq.com": "Plastiq allows businesses and individuals to pay virtually any bill or expense using credit cards, even when direct credit card acceptance is unavailable. The company operates primarily in the United States providing alternative payment methods. Plastiq serves users seeking flexibility in payment options for business and personal expenses.",
+      "transactis.com": "Transactis provides digital solutions for billing and payment processing, focusing on simplifying receivables management. The company operates in the fintech sector delivering reliable and secure payment solutions. Transactis serves businesses requiring modernized billing and collections capabilities.",
+      "verifone.com": "VeriFone is a leading payments company providing solutions to retailers, hospitality businesses, and payment acquirers. The company operates globally, delivering tools to simplify payment processing and commerce for diverse client types. VeriFone serves the broader payments ecosystem with transaction-related services.",
+      "sumup.com": "SumUp provides card readers and payment processing solutions enabling small businesses to accept credit and debit card payments. The company focuses on affordability and ease-of-use for small merchant segments. SumUp's product range includes hardware devices and accompanying payment acceptance services.",
+      "checkout.com": "Checkout.com operates a payments platform designed for enterprise and scaling businesses, enabling payment processing, payouts, and card program management. The company positions itself as a high-performance infrastructure provider for businesses at scale. The platform serves growing companies requiring sophisticated payment capabilities.",
+      "modulrfinance.com": "Modulr Finance operates a fintech platform providing a wide range of payment capabilities designed for businesses. The company serves clients across various industries within the financial services market. Modulr Finance focuses on delivering comprehensive payment solutions to diverse business segments.",
+      "nordigen.com": "Nordigen, now integrated into GoCardless as \"GoCardless Bank Account Data,\" provides open banking connectivity and Account Information Services through an API. The service offers access to financial data from over 2,500 banks across the UK and Europe. Nordigen enables fintech companies to leverage financial institution data through standardized connections.",
+      "cardconnectpartners.com": "Cardnetco-CardConnect provides payment processing solutions focused on simplicity, security, and reliability. The company offers integrations for secure payment acceptance and solutions supporting both card-present and card-not-present transaction types. Cardnetco-CardConnect serves businesses requiring flexible payment acceptance capabilities."
+    }
+  }
+}
