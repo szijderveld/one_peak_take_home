@@ -45,35 +45,35 @@ def _intensity_label(num_peers: int) -> str:
     return "crowded"
 
 
-# Public-market / acquisition outcomes — the clearest incumbent signal.
-_INCUMBENT_STAGE = ("post-ipo", "ipo", "merger", "acquired", "lbo")
-# Late-stage venture (Series C → pre-IPO) — the "established player" band.
-_ESTABLISHED_STAGE = ("series c", "series d", "series e", "series f", "series g", "pre-ipo", "growth equity")
+# Public-market / acquisition outcomes — the clearest established-leader signal.
+_LEADER_STAGE = ("post-ipo", "ipo", "merger", "acquired", "lbo")
+# Late-stage venture (Series C → pre-IPO) — the high-growth challenger band.
+_CHALLENGER_STAGE = ("series c", "series d", "series e", "series f", "series g", "pre-ipo", "growth equity")
 
 
 def classify_tier(c: Company) -> str:
     """Two cohorts, per the agreed rubric:
 
-    Incumbent  — the entrenched market leader: public (IPO) or acquired, the
-                 largest headcounts (>=1k), or an old & sizeable company that
-                 never took venture rounds (self-sustaining / bootstrapped).
-    Established — the younger, scaling challenger: late-stage venture capital
-                 (Series C through pre-IPO), mid-aged (~4-10y), 100-500 staff.
+    Established — the entrenched market leader: public (IPO) or acquired, the
+                  largest headcounts (>=1k), or an old & sizeable company that
+                  never took venture rounds (self-sustaining / bootstrapped).
+    Emerging    — the newer, high-growth challenger: late-stage venture capital
+                  (Series C through pre-IPO), and everything younger / smaller.
     """
     stage = (c.funding_stage or "").lower()
     age = _CURRENT_YEAR - c.founded_year if c.founded_year else None
     emp = c.employees if (c.employees is not None and c.employees_reliable) else None
 
-    if any(m in stage for m in _INCUMBENT_STAGE):
-        return "incumbent"  # public or acquired
+    if any(m in stage for m in _LEADER_STAGE):
+        return "established"  # public or acquired → entrenched leader
     if emp is not None and emp >= 1000:
-        return "incumbent"  # incumbent-scale headcount
-    if any(m in stage for m in _ESTABLISHED_STAGE):
-        return "established"  # late-stage venture challenger
+        return "established"  # leader-scale headcount
+    if any(m in stage for m in _CHALLENGER_STAGE):
+        return "emerging"  # late-stage venture challenger
     # Old, sizeable, and never raised named VC → self-sustaining / bootstrapped.
     if age is not None and age >= 15 and emp is not None and emp >= 500 and "series" not in stage and "seed" not in stage:
-        return "incumbent"
-    return "established"
+        return "established"
+    return "emerging"
 
 
 def _archetype(funding_rank, funding_of, growth_rank, growth_of, founded_year, median_year) -> str:
@@ -92,6 +92,7 @@ def build_space(
     *,
     all_competitors: list[Company],
     quarantined_count: int,
+    dropped_unverifiable_count: int = 0,
     cache_hit: bool,
     count: int,
 ) -> Space:
@@ -144,6 +145,8 @@ def build_space(
     ]
     if unreliable:
         notes.insert(0, f"{unreliable} headcount figure(s) looked unreliable and were down-weighted.")
+    if dropped_unverifiable_count:
+        notes.insert(0, f"{dropped_unverifiable_count} record(s) dropped — no verifiable headcount (the '1' sentinel).")
     if quarantined_count:
         notes.insert(0, f"{quarantined_count} record(s) quarantined for mismatched identity.")
 
@@ -174,6 +177,7 @@ def build_space(
         closest_comparators=closest,
         unreliable_headcount_count=unreliable,
         quarantined_count=quarantined_count,
+        dropped_unverifiable_count=dropped_unverifiable_count,
         notes=notes,
         cache_hit=cache_hit,
         count=count,

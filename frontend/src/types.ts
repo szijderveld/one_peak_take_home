@@ -19,7 +19,6 @@ export interface Company {
   employees_reliable: boolean
   growth_12m: number | null
   founded_year: number | null
-  founded_precision: string
   hq_city: string | null
   hq_country: string | null
   industries: string[]
@@ -28,7 +27,7 @@ export interface Company {
   total_funding_m: number | null
   last_round_m: number | null
   last_round_date: string | null
-  market_tier: 'incumbent' | 'established'
+  market_tier: 'established' | 'emerging'
   geography: GeoShare[]
 }
 
@@ -59,11 +58,12 @@ export interface Space {
   closest_comparators: string[]
   unreliable_headcount_count: number
   quarantined_count: number
+  dropped_unverifiable_count: number
   notes: string[]
   summary: string | null
   position_summary: string | null
-  incumbents_summary: string | null
   established_summary: string | null
+  emerging_summary: string | null
   cache_hit: boolean
   count: number
 }

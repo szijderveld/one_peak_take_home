@@ -59,10 +59,10 @@ def test_employees_normal_is_reliable():
     assert c.clean_employees(851.0, 12.0, "GoCardless handles bank payments.") == (851, True)
 
 
-def test_founded_year_precision():
-    assert c.clean_founded("2013-01-01") == (2013, "year")  # filler day → year precision
-    assert c.clean_founded("2015-03-12") == (2015, "day")
-    assert c.clean_founded(None) == (None, "unknown")
+def test_founded_year():
+    assert c.clean_founded("2013-01-01") == 2013  # filler day dropped → year only
+    assert c.clean_founded("2015-03-12") == 2015
+    assert c.clean_founded(None) is None
 
 
 def test_hq_split_on_last_comma():
@@ -149,7 +149,7 @@ def test_clean_record_end_to_end_seed():
     assert company.display_name == "Pandadoc"
     assert company.employees == 891 and company.employees_reliable
     assert company.total_funding_m == 66.93
-    assert company.founded_year == 2013 and company.founded_precision == "year"
+    assert company.founded_year == 2013
     assert company.industries == ["Sales Software", "SaaS"]
     assert company.funding_stage == "Seed"
     assert "Keywords" not in company.description

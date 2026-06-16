@@ -119,16 +119,11 @@ def clean_growth(growth: float | None) -> float | None:
     return round(growth, 1) if growth is not None else None
 
 
-def clean_founded(founded_date: str | None) -> tuple[int | None, str]:
-    """Return (year, precision). A `-01-01` date is year-precision filler."""
-    if not founded_date:
-        return None, "unknown"
-    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", founded_date.strip())
-    if not m:
-        return None, "unknown"
-    year, month, day = int(m[1]), m[2], m[3]
-    precision = "year" if (month, day) == ("01", "01") else "day"
-    return year, precision
+def clean_founded(founded_date: str | None) -> int | None:
+    """Return the founding year. Month/day are dropped: the API pads year-only
+    dates to `-01-01`, so keeping them would imply precision the source lacks."""
+    m = re.match(r"(\d{4})-\d{2}-\d{2}", (founded_date or "").strip())
+    return int(m[1]) if m else None
 
 
 def _normalise_country(country: str) -> str:
@@ -221,7 +216,6 @@ def clean_record(raw: RawRecord, is_seed: bool) -> Company:
     employees, employees_reliable = clean_employees(
         raw.employees, raw.employee_12_months_growth_relative, raw.description
     )
-    founded_year, founded_precision = clean_founded(raw.founded_date)
     hq_city, hq_country = clean_hq(raw.hq_locations)
     return Company(
         domain=domain,
@@ -233,8 +227,7 @@ def clean_record(raw: RawRecord, is_seed: bool) -> Company:
         employees=employees,
         employees_reliable=employees_reliable,
         growth_12m=clean_growth(raw.employee_12_months_growth_relative),
-        founded_year=founded_year,
-        founded_precision=founded_precision,
+        founded_year=clean_founded(raw.founded_date),
         hq_city=hq_city,
         hq_country=hq_country,
         industries=split_tags(raw.industries),

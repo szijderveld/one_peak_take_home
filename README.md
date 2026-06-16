@@ -22,7 +22,7 @@ structured into a small Pydantic domain model, analysed, and enriched with Claud
 **1. Backend**
 ```bash
 cd backend
-cp .env.example .env          # add ANTHROPIC_API_KEY (the Pulse key is prefilled)
+cp .env.example .env          # add ANTHROPIC_API_KEY and PULSE_API_KEY
 uv run uvicorn app.main:app --reload --port 8000
 ```
 
@@ -57,14 +57,18 @@ The whole result is one **`Space`** object: the seed `Company`, the credible pee
 data-confidence notes, and the AI narrative. The deterministic pipeline and the
 AI enrichment are cleanly separated — AI only ever *adds* properties.
 
-### Data handling highlights (the messy bits)
-`employees == 1` → unknown; structured headcount that contradicts the narrative →
-the narrative figure, flagged; geography from the structured array, never the
-buggy summary string; `-01-01` → year precision; inconsistent industry
-comma-spacing; leaked internal notes & `Keywords:` spam stripped from
-descriptions; duplicate domains de-duplicated; **wrong-company profiles
-quarantined**; and the large similarity-floor block the API returns as padding is
-dropped so the "space" is genuinely credible. All surfaced in **Data confidence**.
+### Data handling highlights
+1. `employees == 1` → treated as unknown; with no narrative headcount to recover, the record is dropped from the space (these proved to be unverifiable micro / defunct entities, all sitting at the similarity floor).
+2. Structured headcount that contradicts the narrative → use the narrative figure, flagged.
+3. Geography taken from the structured array, never the buggy summary string.
+4. `-01-01` → year precision.
+5. Inconsistent industry comma-spacing normalised.
+6. Leaked internal notes & `Keywords:` spam stripped from descriptions.
+7. Duplicate domains de-duplicated.
+8. **Wrong-company profiles quarantined.**
+9. The large similarity-floor block the API returns as padding is dropped, so the "space" is genuinely credible.
+
+All surfaced in **Data confidence**.
 
 ## Project structure
 ```

@@ -22,13 +22,14 @@ def build_from_response(resp: PulseResponse, settings: Settings, fallback_domain
     seed_raw, competitor_raws = _split_seed(resp)
     seed = cleaning.clean_record(seed_raw, is_seed=True) if seed_raw else _fallback_seed(fallback_domain)
     cleaned = [cleaning.clean_record(r, is_seed=False) for r in competitor_raws]
-    peers, quarantined = _select_peers(cleaned, seed, settings.similarity_threshold)
+    peers, quarantined, dropped = _select_peers(cleaned, seed, settings.similarity_threshold)
 
     return analysis.build_space(
         seed,
         peers,
         all_competitors=cleaned,
         quarantined_count=quarantined,
+        dropped_unverifiable_count=dropped,
         cache_hit=resp.cache_hit,
         count=resp.count,
     )
@@ -48,9 +49,10 @@ def _split_seed(resp: PulseResponse) -> tuple[RawRecord | None, list[RawRecord]]
 
 def _select_peers(
     cleaned: list[Company], seed: Company, threshold: float
-) -> tuple[list[Company], int]:
+) -> tuple[list[Company], int, int]:
     """Credible peers: above the similarity bar, above the API's noise floor,
-    identity-verified, de-duplicated by domain. Returns (peers, quarantined)."""
+    identity-verified, with a verifiable headcount, de-duplicated by domain.
+    Returns (peers, quarantined, dropped_unverifiable)."""
     candidates = [
         c for c in cleaned if c.similarity >= threshold and c.domain != seed.domain
     ]
@@ -65,16 +67,19 @@ def _select_peers(
             candidates = above
 
     by_domain: dict[str, Company] = {}
-    quarantined = 0
+    quarantined = dropped = 0
     for c in candidates:
         if not c.identity_ok:
             quarantined += 1  # credible by score, but its profile describes someone else
+            continue
+        if c.employees is None and not c.employees_reliable:
+            dropped += 1  # the "1" headcount sentinel with no narrative figure → an unverifiable entity
             continue
         key = c.domain or c.display_name.lower()
         if key not in by_domain or c.similarity > by_domain[key].similarity:
             by_domain[key] = c
     peers = sorted(by_domain.values(), key=lambda c: c.similarity, reverse=True)
-    return peers, quarantined
+    return peers, quarantined, dropped
 
 
 def _fallback_seed(domain: str) -> Company:

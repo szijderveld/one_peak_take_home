@@ -3,7 +3,7 @@
 
 Two calls run concurrently:
   • narrative (Sonnet) — evaluative, PE-analyst prose: company / space / position /
-    incumbents / established summaries, plus the space name and themes.
+    established / emerging summaries, plus the space name and themes.
   • per-company (Haiku) — a one-line blurb and a short overlay summary for each
     displayed company, batched into ONE call.
 
@@ -29,8 +29,8 @@ class _Narrative(BaseModel):
     company_summary: str
     space_summary: str
     position_summary: str
-    incumbents_summary: str
     established_summary: str
+    emerging_summary: str
 
 
 class _CompanyAI(BaseModel):
@@ -59,8 +59,8 @@ async def enrich(space: Space, settings: Settings) -> None:
         space.seed.ai_summary = narrative.company_summary
         space.summary = narrative.space_summary
         space.position_summary = narrative.position_summary
-        space.incumbents_summary = narrative.incumbents_summary
         space.established_summary = narrative.established_summary
+        space.emerging_summary = narrative.emerging_summary
         if narrative.space_name.strip():
             space.name = narrative.space_name.strip()
         if narrative.space_themes:
@@ -85,7 +85,7 @@ _NARRATIVE_SYSTEM = (
     "on the page; cite a figure only when it directly supports a judgement). Focus on "
     "market structure and dynamics, what genuinely differentiates the players, "
     "defensibility and moats, and the risks and opportunities an investor would weigh. "
-    "Be specific and willing to take a position. No hype, no preamble, no markdown."
+    "Be objective but not opinionated, you are here to inform. No hype, no preamble, no markdown."
 )
 
 
@@ -107,8 +107,8 @@ def _line(c: Company, desc: bool = False) -> str:
 
 def _narrative_prompt(space: Space) -> str:
     s = space.seed
-    incs = [c for c in space.companies if c.market_tier == "incumbent"]
-    ests = [c for c in space.companies if c.market_tier == "established"]
+    leaders = [c for c in space.companies if c.market_tier == "established"]
+    emergers = [c for c in space.companies if c.market_tier == "emerging"]
     ctx = (
         f"SEED COMPANY: {s.display_name} [{s.domain}]\n"
         f"What it does: {s.description}\n"
@@ -116,10 +116,10 @@ def _narrative_prompt(space: Space) -> str:
         f"{s.growth_12m}% headcount growth over 12m, founded {s.founded_year}; industries {s.industries}.\n"
         f"Its position: funding rank #{space.funding_rank}/{space.funding_of}, "
         f"headcount #{space.headcount_rank}/{space.headcount_of}, growth #{space.growth_rank}/{space.growth_of}.\n\n"
-        "Tiers: INCUMBENTS are the entrenched market leaders (public/IPO, acquired, or large & long-established / self-sustaining). "
-        "ESTABLISHED PLAYERS are the younger, scaling, late-stage-venture challengers (Series C to pre-IPO).\n\n"
-        f"INCUMBENTS ({len(incs)}):\n" + ("\n".join(_line(c, desc=True) for c in incs[:8]) or " (none)") + "\n\n"
-        f"ESTABLISHED PLAYERS ({len(ests)}):\n" + ("\n".join(_line(c, desc=True) for c in ests[:10]) or " (none)") + "\n\n"
+        "Tiers: ESTABLISHED PLAYERS are the entrenched market leaders (public/IPO, acquired, or large & long-established / self-sustaining). "
+        "EMERGING PLAYERS are the newer, high-growth challengers (early-stage through late-stage venture, seed to pre-IPO).\n\n"
+        f"ESTABLISHED PLAYERS ({len(leaders)}):\n" + ("\n".join(_line(c, desc=True) for c in leaders[:8]) or " (none)") + "\n\n"
+        f"EMERGING PLAYERS ({len(emergers)}):\n" + ("\n".join(_line(c, desc=True) for c in emergers[:10]) or " (none)") + "\n\n"
         f"MARKET: ~{space.num_credible_peers} credible peers, {space.intensity_label}, {space.maturity_label}, "
         f"median founded {space.median_founded_year}, ${space.total_capital_m}M total disclosed capital."
     )
@@ -130,8 +130,8 @@ def _narrative_prompt(space: Space) -> str:
         f"- company_summary: what {s.display_name} actually does and the role/angle it plays in this market — not a stat list.\n"
         "- space_summary: orient the investor — how the market is structured and consolidated, where competition really happens, what makes it attractive or hard to win.\n"
         f"- position_summary: EVALUATE {s.display_name} as a potential investment. Be concrete and opinionated: what does it do that the other companies here do NOT, where is its edge or its vulnerability, and what would most influence a decision to back it or pass. This is the most important field.\n"
-        "- incumbents_summary: characterise the incumbent leaders — what their dominance and distribution mean for the space and for a new bet against or alongside them.\n"
-        "- established_summary: characterise the established players — the younger, venture-backed challengers: who is differentiating, who could break out, and the consolidation dynamics."
+        "- established_summary: characterise the established leaders — what their dominance and distribution mean for the space and for a new bet against or alongside them.\n"
+        "- emerging_summary: characterise the emerging players — the newer, high-growth, venture-backed challengers: who is differentiating, who could break out, and the consolidation dynamics."
     )
     return ctx + instructions
 
@@ -165,12 +165,12 @@ async def _company_ai(client: AsyncAnthropic, space: Space, settings: Settings) 
 
 
 def _displayed_companies(space: Space) -> list[Company]:
-    """Seed + peers (incumbents first, then by similarity), capped to bound the call."""
+    """Seed + peers (established leaders first, then by similarity), capped to bound the call."""
     from app.pipeline.analysis import _field
 
     ranked = sorted(
         _field(space.seed, space.companies),
-        key=lambda c: (not c.is_seed, c.market_tier != "incumbent", -c.similarity),
+        key=lambda c: (not c.is_seed, c.market_tier != "established", -c.similarity),
     )
     seen: set[str] = set()
     out: list[Company] = []

@@ -3,7 +3,7 @@ import type { Company, Space } from '../types'
 import { money, num, pct } from '../lib/format'
 import { AISummary } from './AISummary'
 
-type Tier = 'established' | 'incumbent'
+type Tier = 'established' | 'emerging'
 const CAP = 12
 
 function PlayerTable({ rows, onOpen }: { rows: Company[]; onOpen: (c: Company) => void }) {
@@ -58,19 +58,19 @@ export function KeyPlayers({ space, onOpen }: { space: Space; onOpen: (c: Compan
       .sort((a, b) => (b.total_funding_m ?? 0) - (a.total_funding_m ?? 0))
 
   const established = byTier('established')
-  const incumbents = byTier('incumbent')
-  const rows = tab === 'established' ? established : incumbents
-  const summary = tab === 'established' ? space.established_summary : space.incumbents_summary
+  const emerging = byTier('emerging')
+  const rows = tab === 'established' ? established : emerging
+  const summary = tab === 'established' ? space.established_summary : space.emerging_summary
 
   const tabs: { id: Tier; label: string; count: number }[] = [
     { id: 'established', label: 'Established players', count: established.length },
-    { id: 'incumbent', label: 'Incumbents', count: incumbents.length },
+    { id: 'emerging', label: 'Emerging players', count: emerging.length },
   ]
 
   return (
     <div className="card p-6">
       <h3 className="font-bold">Key players</h3>
-      <p className="text-sm text-muted">The field split into incumbents and established players — click any row to open its card.</p>
+      <p className="text-sm text-muted">The field split into established and emerging players — click any row to open its card.</p>
 
       <div className="mt-4 inline-flex rounded-lg bg-canvas p-1 text-sm">
         {tabs.map((t) => (

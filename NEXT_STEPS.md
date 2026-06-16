@@ -1,44 +1,107 @@
-# PULSE Competitive Landscape — Next Steps
+# Next Steps: PULSE Competitive Landscape
 
-Prep notes for our conversation, not a polished spec.
+## 1. What I built, and why
 
-## What I built and why
+A tool where you enter a company domain and get a structured, consistent view of
+its competitive landscape. It answers the investor's questions by dividing the
+view into three interfaces:
 
-A tool that turns a **company domain** into a clear competitive landscape, structured the way an investor actually reasons: **understand the Company → understand the Space → understand the company's Position in it.** A web-search **research agent**, grounded in the same data, handles the follow-up questions.
+- **Company:** an at-a-glance view of what the company does and what it is.
+- **The Space:** the market the company operates in. This is a standalone
+  representation of the market, which I have chosen to characterise by
+  highlighting its **key players**.
+- **Market Position:** where the company sits *relative* to that space. It shows
+  its relative position, plus its most similar rivals.
 
-Under the hood:
+The main display is built from the API data, cleaned and lightly enriched with AI
+models (which also bring some inherent knowledge of the companies themselves).
+This gives a deterministic, controlled view of the space relative to the input
+data. On its own, though, that limits how much can be understood about the
+problem. To extend the tool, a **research agent** with web search adds a deeper
+research layer for users to ask more in-depth questions. The agent is fully aware
+of the context on the page, so it can answer questions inside the tool, without
+the user switching to a separate LLM or Google.
 
-- **Pulse API → cleaning pipeline → a small Pydantic domain model → AI enrichment → one page.** The domain model is deliberately just **two objects, `Company` and `Space`** (the space holds the peer companies, the aggregates, the seed's position, and the data-confidence notes). AI enrichment is layered on as *properties* of those objects, never a parallel structure.
-- **Cleaning is rule-based and unit-tested**, because making sense of the messy data is the core of the task. It handles the specific failure modes in the data: the `1`-employee sentinel, structured headcounts that contradict the narrative (PayPal-style), geography derived from the structured array rather than the buggy summary string, year-precision (`-01-01`) dates, inconsistent industry comma-spacing, leaked internal analyst notes, `Keywords:` spam, duplicate domains, **identity quarantine** of wrong-company profiles, and dropping the large similarity-floor block the API returns as padding.
-- **AI is used where judgement helps, not for mechanical cleaning**: three narrative summaries (company / space / position) plus a sharper space name and themes, and a batched set of one-line company blurbs. Model choice is per use case — **Sonnet** for the judgement work and the chat agent, **Haiku** for the high-volume blurbs — and the two enrichment calls run **concurrently**.
+**Data handling.** The API was a strong starting point, most useful for the
+similarity matching that defines the "space," but much of the rest wasn't fully
+reliable. The issues were mostly missing fields, but also included implausible
+headcounts, descriptions about the wrong company, internal notes leaking into
+descriptions, buggy geography data, and padding of the results around the
+similarity score. This was handled at the API boundary: raw API data is parsed
+into Pydantic classes, with cleaning methods designed field by field and a
+priority of only passing through 'clean' companies. The preference was to show
+only credible information and never surface wrong-company records. A
+**data-confidence panel** tells the user which fields had unreliable data.
 
-### Key trade-offs (happy to dig into any of these)
+## 2. What I'd explore next
 
-- **Deterministic vs. AI split.** Everything that can be a rule *is* a rule (testable, explainable, cheap); AI only does synthesis. This keeps the output defensible — I can point at why every number is what it is.
-- **"Batching" ≠ the Batch API.** The async Batch API is for offline jobs (~1h); wrong for an interactive request. Here, batching means folding many companies into *one* structured call and running independent calls concurrently.
-- **Credible peers.** The API returns ~100 results but pads with a big block at its similarity floor (84/100 at exactly 0.6 for PandaDoc). I drop that block and keep the genuine cluster — a heuristic I'd want to validate.
-- **Scoped out for time:** persistence, auth, multi-domain search, streaming the result in two phases.
+In building this there were many avenues to explore: improved workflow
+integration, mining more useful information through AI and search, usability
+improvements, or scope expansion.
 
-## What I'd explore next
+My biggest value-add next step would be to integrate **deep research search** into
+the workflow. After the API data is called and cleaned, each section would be
+additionally researched by a search-enabled LLM. This would do two things: first,
+validate the data currently shown; second, enhance it through research into the
+company, the space, and related market activity. This improves the data-quality
+issues that already exist in the API and can't be solved by cleaning alone, while
+also offering deep research conducted in a systematic way.
 
-- **Enrich at analysis time, not just in chat** — pull recent funding/news, founders, and customers via web search during the run, with per-field confidence surfaced inline and editable by the user.
-- **Caching + perceived latency** — cache landscapes by domain, pre-warm common ones, and stream the page data-first / AI-second (the Pulse call dominates latency).
-- **Sharper comparison** — a positioning 2×2, "who's nearest on which axis," and a **compare two companies** mode.
-- **Entity resolution** — dedupe rebrands/subsidiaries and reconcile `name` vs `domain` vs description more robustly.
-- **Trust** — evals that score the AI summaries for factuality against the structured data; a visible confidence model.
-- **Fit** — export into a deal-memo section / push into PULSE so it lands where the work already happens.
+### Further priority list
 
-## How it fits the investment workflow (assumptions to validate)
+- **User custom prompts.** Different users want slightly different things. The AI
+  prompts govern what gets surfaced, so it makes sense to let users tweak them to
+  get the exact insight they want from each section.
+- **Write-back for users.** Open a field in the API for write-back. As an internal
+  tool, the investment team should be able to add notes, or a message board, on
+  specific companies.
+- **Side-by-side view**. Creation of more indepth views such as companiring two companies side by side. This would be led by what more is needed for the user.
+- **Search by description.** This is already available in the API but not yet
+  built into the tool. It is a useful expansion that, in effect, lets users create
+  their own custom **space**.
 
-- I'm picturing **pre-meeting and early diligence**: a two-minute, consistent landscape before a call, then the chat agent for the long tail ("who's growing fastest and why?", "what's the moat?").
-- Assumptions I'd want to test: that the team **starts from a company/domain** (vs. a thesis or a space); that **funding / headcount / growth / maturity** are the right comparison axes; how much they trust an AI summary vs. raw fields; and **where this should live** to actually get used.
+## 3. How it fits the workflow
 
-## Questions for the stakeholder
+This tool is designed for the start of the investigation of a new company. The
+idea is for the investment team to save the 3 to 5 hours of googling and instead
+learn the business's proposition and its position in the market in around 20
+minutes.
 
-1. Walk me through the last competitive landscape you built — what did you start from, and what took longest?
-2. Is the win **breadth** (surface every competitor) or a **curated, credible short-list**? Where's the current pain?
-3. What decision does this feed — a go/no-go screen, a deep dive, a section of the deal memo?
-4. Which signals do you trust **least** today, and what would make you trust this output enough to act on it?
-5. Do you think in terms of a company's *competitors*, or a *space* you're mapping? (That changes the entry point.)
-6. What do you always end up looking up manually that isn't here — pricing, customers, tech stack, hiring signals?
-7. Where should this live — standalone, inside PULSE, in the CRM, in Slack?
+It does this by breaking the market into components and clearly summarising the
+key information about each, with a research assistant on hand for any further deep
+dives.
+
+The natural next steps after this are to share the result with a colleague or send
+a direct message to the business. There are buttons in place for this, to help it
+integrate into the rest of the workflow. Improvements here could include AI
+drafting an investment-case document straight from this screen, suggesting a
+valuation, or building the case for investment by contrasting the company's risk
+profile against One Peak's other investments.
+
+## 4. Questions I'd want to ask you
+
+**How are investment decisions made?** I'd want to understand the full workflow,
+from identification, to investigation, to the final decision. Each of these stages
+probably needs a different tool. Identification, for example, would need a
+watchdog-style tool constantly monitoring and raising alerts for companies likely
+to pass the next two stages. Ironically, that tool is best built *last*, because
+it needs to learn from the evaluation tool first. This POC focuses on
+**evaluating an opportunity** (a single company). Knowing what the next stage
+looks like helps me build it to integrate well, which is why this broad question
+is so useful for guiding everything that follows.
+
+**Where exactly does the "investigation" pain bite?** I know the team is currently
+"googling." The goal is to replace and standardise that to save time, so I'd want
+to know specifically *what* they're googling and *where* the real pain points are (is this amount of infromation needed, reliability, or more just presentation of information in one place?).
+
+### Further questions
+
+- **Do you start from a specific company, or from a space/thesis you want to map?**
+  This tells me whether the priority is diligence on a known target or sourcing
+  across a space, which ties directly to the "search by description" step.
+- **What signals do you use to make ur decisions**. This guides what metrics should be gathered and displayed in the front end. Also AI models should emullate this thinking.
+- **What do you currently trust, and what would make you trust this enough to use
+  it in a real decision?** The data-confidence panel is a first step, but I'd want
+  to know what moves it from "interesting" to "relied upon."
+- **What does the output look like** This decides how much to invest in export, AI drafting, and the share/message actions.
+

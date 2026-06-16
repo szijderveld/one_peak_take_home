@@ -34,7 +34,6 @@ class Company(BaseModel):
     growth_12m: float | None = None  # % headcount change over 12 months
 
     founded_year: int | None = None
-    founded_precision: str = "unknown"  # "year" | "day" | "unknown"
 
     hq_city: str | None = None
     hq_country: str | None = None
@@ -47,7 +46,7 @@ class Company(BaseModel):
     last_round_m: float | None = None
     last_round_date: str | None = None
 
-    market_tier: str = "established"  # "incumbent" | "established"
+    market_tier: str = "emerging"  # "established" (entrenched leader) | "emerging" (high-growth challenger)
     geography: list[GeoShare] = Field(default_factory=list)
 
 
@@ -92,13 +91,14 @@ class Space(BaseModel):
     # --- Data confidence ---
     unreliable_headcount_count: int = 0
     quarantined_count: int = 0
+    dropped_unverifiable_count: int = 0  # no verifiable headcount (the "1" sentinel)
     notes: list[str] = Field(default_factory=list)
 
     # --- AI-enhanced narrative properties ---
     summary: str | None = None  # THE SPACE narrative
     position_summary: str | None = None  # MARKET POSITION narrative
-    incumbents_summary: str | None = None  # the incumbent tier, characterised
-    established_summary: str | None = None  # the established / mid field, characterised
+    established_summary: str | None = None  # the entrenched leaders, characterised
+    emerging_summary: str | None = None  # the high-growth challengers, characterised
 
     # --- Meta ---
     cache_hit: bool = False
