@@ -17,7 +17,6 @@ Under the hood:
 - **Deterministic vs. AI split.** Everything that can be a rule *is* a rule (testable, explainable, cheap); AI only does synthesis. This keeps the output defensible — I can point at why every number is what it is.
 - **"Batching" ≠ the Batch API.** The async Batch API is for offline jobs (~1h); wrong for an interactive request. Here, batching means folding many companies into *one* structured call and running independent calls concurrently.
 - **Credible peers.** The API returns ~100 results but pads with a big block at its similarity floor (84/100 at exactly 0.6 for PandaDoc). I drop that block and keep the genuine cluster — a heuristic I'd want to validate.
-- **Demo vs. live.** A committed *synthetic* dataset powers an offline demo; live mode hits the real API. I deliberately don't commit captured API responses.
 - **Scoped out for time:** persistence, auth, multi-domain search, streaming the result in two phases.
 
 ## What I'd explore next

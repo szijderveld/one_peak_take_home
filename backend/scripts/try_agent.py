@@ -24,7 +24,7 @@ async def main() -> None:
         print("Set ANTHROPIC_API_KEY in backend/.env first.")
         return
 
-    space = await build_landscape(domain, settings, mode="live")
+    space = await build_landscape(domain, settings)
     await enrich(space, settings)
     print(f"Landscape: {space.name} | {space.num_credible_peers} peers")
     print(f"Q: {question}\nA: ", end="", flush=True)

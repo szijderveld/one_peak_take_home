@@ -103,4 +103,3 @@ class Space(BaseModel):
     # --- Meta ---
     cache_hit: bool = False
     count: int = 0  # raw record count from the API
-    mode: str = "live"  # "live" | "demo"

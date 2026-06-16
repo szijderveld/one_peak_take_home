@@ -1,5 +1,3 @@
-import type { Mode } from '../types'
-
 const EXAMPLES = ['pandadoc.com', 'gocardless.com', 'groundcover.com']
 
 export function SearchBar({
@@ -7,13 +5,11 @@ export function SearchBar({
   onChange,
   onAnalyse,
   loading,
-  mode,
 }: {
   value: string
   onChange: (v: string) => void
   onAnalyse: (domain: string) => void
   loading: boolean
-  mode: Mode
 }) {
   return (
     <div className="card p-5">
@@ -44,12 +40,6 @@ export function SearchBar({
           </button>
         ))}
       </div>
-      {mode === 'demo' && (
-        <p className="mt-3 text-xs text-gray-400">
-          Demo mode replays bundled real responses (pandadoc.com, gocardless.com, groundcover.com) through the full
-          pipeline — no key or network needed.
-        </p>
-      )}
     </div>
   )
 }

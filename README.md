@@ -34,8 +34,6 @@ npm run dev                   # http://localhost:5173  (proxies /api → :8000)
 ```
 
 Open http://localhost:5173, enter a domain (e.g. `pandadoc.com`), and **Analyse**.
-Toggle **Demo** (top-right) to run the whole pipeline on a bundled synthetic
-dataset with **no keys or network** required.
 
 > Without an `ANTHROPIC_API_KEY` the app still works end-to-end — the AI summaries
 > and chat are simply disabled (they turn on automatically once a key is present).
@@ -77,7 +75,7 @@ backend/
     enrichment/    enricher.py        (concurrent Sonnet + Haiku, structured output)
     agent/         research_agent.py  (Sonnet + server-side web search)
     main.py        /api/landscape · /api/chat (SSE)
-  scripts/         build_demo_fixture.py · try_agent.py
+  scripts/         try_agent.py
   tests/           test_cleaning.py
 frontend/
   src/components/  the four sections, company-card modal, chat panel, charts, map
@@ -88,5 +86,4 @@ frontend/
   `cd backend && PYTHONPATH=. uv run python scripts/try_agent.py pandadoc.com "how crowded is this market?"`
 - The Pulse API enforces a ~30s budget and times out on cold/multi-domain
   requests; the client sends one domain and retries (a repeat warms the cache).
-- Real captured API responses are intentionally not committed; the demo uses a
-  synthetic dataset (`scripts/build_demo_fixture.py`).
+- Real captured Pulse API responses are intentionally not committed (data hygiene).

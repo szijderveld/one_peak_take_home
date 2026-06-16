@@ -66,7 +66,4 @@ export interface Space {
   established_summary: string | null
   cache_hit: boolean
   count: number
-  mode: string
 }
-
-export type Mode = 'live' | 'demo'

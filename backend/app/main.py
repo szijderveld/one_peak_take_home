@@ -7,11 +7,11 @@ from pydantic import BaseModel
 
 from app.agent.research_agent import ResearchAgent
 from app.config import get_settings
-from app.enrichment.enricher import apply_demo_enrichment, enrich
+from app.enrichment.enricher import enrich
 from app.models.domain import Space
 from app.pipeline import cleaning
-from app.pipeline.pipeline import build_from_response, build_landscape
-from app.pipeline.pulse_client import PulseError, load_demo
+from app.pipeline.pipeline import build_landscape
+from app.pipeline.pulse_client import PulseError
 
 app = FastAPI(title="PULSE Competitive Landscape")
 
@@ -23,27 +23,14 @@ def health() -> dict[str, str]:
 
 class LandscapeRequest(BaseModel):
     domain: str
-    mode: str = "live"  # "live" | "demo"
 
 
 @app.post("/api/landscape", response_model=Space)
 async def landscape(req: LandscapeRequest) -> Space:
     settings = get_settings()
     domain = cleaning.clean_domain(req.domain) or req.domain
-
-    if req.mode == "demo":
-        # Replay a bundled real response through the real pipeline, then apply
-        # its pre-baked AI enrichment — works offline, no keys.
-        try:
-            blob = load_demo(domain)
-        except PulseError as exc:
-            raise HTTPException(status_code=503, detail=str(exc)) from exc
-        space = build_from_response(blob.response, settings, "demo")
-        apply_demo_enrichment(space, blob.enrichment)
-        return space
-
     try:
-        space = await build_landscape(domain, settings, mode="live")
+        space = await build_landscape(domain, settings)
     except PulseError as exc:
         raise HTTPException(status_code=502, detail=str(exc)) from exc
     await enrich(space, settings)  # fills AI properties in place; no-op without a key

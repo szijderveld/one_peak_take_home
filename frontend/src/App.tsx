@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { fetchLandscape } from './api'
-import type { Company, Mode, Space } from './types'
+import type { Company, Space } from './types'
 import { Header } from './components/Header'
 import { SearchBar } from './components/SearchBar'
 import { CompanySection } from './components/CompanySection'
@@ -19,7 +19,6 @@ function Loading() {
 }
 
 export default function App() {
-  const [mode, setMode] = useState<Mode>('live')
   const [domain, setDomain] = useState('pandadoc.com')
   const [space, setSpace] = useState<Space | null>(null)
   const [loading, setLoading] = useState(false)
@@ -27,20 +26,13 @@ export default function App() {
   const [selected, setSelected] = useState<Company | null>(null)
   const [chatOpen, setChatOpen] = useState(false)
 
-  function changeMode(m: Mode) {
-    setMode(m)
-    // Demo replays bundled real responses keyed by domain; reset to a domain we
-    // know is bundled.
-    setDomain('pandadoc.com')
-  }
-
   async function analyse(d: string) {
     const target = d.trim()
     if (!target || loading) return
     setLoading(true)
     setError(null)
     try {
-      setSpace(await fetchLandscape(target, mode))
+      setSpace(await fetchLandscape(target))
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Something went wrong.')
       setSpace(null)
@@ -51,8 +43,8 @@ export default function App() {
 
   return (
     <div className="mx-auto max-w-5xl px-4 pb-24">
-      <Header mode={mode} onMode={changeMode} />
-      <SearchBar value={domain} onChange={setDomain} onAnalyse={analyse} loading={loading} mode={mode} />
+      <Header />
+      <SearchBar value={domain} onChange={setDomain} onAnalyse={analyse} loading={loading} />
 
       {error && (
         <div className="card mt-6 border-red-200 bg-red-50 p-4 text-sm text-red-700">{error}</div>

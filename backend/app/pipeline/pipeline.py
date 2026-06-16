@@ -12,14 +12,12 @@ from app.pipeline import analysis, cleaning
 from app.pipeline.pulse_client import get_competitors
 
 
-async def build_landscape(domain: str, settings: Settings, mode: str = "live") -> Space:
-    resp = await get_competitors(domain, settings, mode=mode)
-    return build_from_response(resp, settings, mode, fallback_domain=domain)
+async def build_landscape(domain: str, settings: Settings) -> Space:
+    resp = await get_competitors(domain, settings)
+    return build_from_response(resp, settings, fallback_domain=domain)
 
 
-def build_from_response(
-    resp: PulseResponse, settings: Settings, mode: str, fallback_domain: str = ""
-) -> Space:
+def build_from_response(resp: PulseResponse, settings: Settings, fallback_domain: str = "") -> Space:
     """The deterministic core: raw response → cleaned, analysed `Space` (no AI)."""
     seed_raw, competitor_raws = _split_seed(resp)
     seed = cleaning.clean_record(seed_raw, is_seed=True) if seed_raw else _fallback_seed(fallback_domain)
@@ -33,7 +31,6 @@ def build_from_response(
         quarantined_count=quarantined,
         cache_hit=resp.cache_hit,
         count=resp.count,
-        mode=mode,
     )
 
 

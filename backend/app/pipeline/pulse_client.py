@@ -1,13 +1,11 @@
 """Client for the Pulse Competitor Intelligence API.
 
-Live calls trust the `success` boolean (not just the HTTP status) and retry on
-the documented ~30s timeout — a repeated request warms the server cache and
-usually succeeds. Demo mode replays a bundled synthetic fixture instead.
+Calls trust the `success` boolean (not just the HTTP status) and retry on the
+documented ~30s timeout — a repeated request warms the server cache and usually
+succeeds.
 """
 
 import asyncio
-import json
-from pathlib import Path
 
 import httpx
 
@@ -15,21 +13,14 @@ from app.config import Settings
 from app.models.raw import PulseResponse
 
 _ENDPOINT = "/api/external/competitor_search"
-_FIXTURE_DIR = Path(__file__).resolve().parents[2] / "fixtures" / "demo"
 
 
 class PulseError(RuntimeError):
     """Raised when a search cannot be completed (auth, repeated timeout, …)."""
 
 
-async def get_competitors(domain: str, settings: Settings, mode: str = "live") -> PulseResponse:
-    """Single entry point used by the pipeline."""
-    if mode == "demo":
-        return load_demo(domain).response
-    return await fetch_live(domain, settings)
-
-
-async def fetch_live(domain: str, settings: Settings, *, retries: int = 4) -> PulseResponse:
+async def get_competitors(domain: str, settings: Settings, *, retries: int = 4) -> PulseResponse:
+    """Fetch competitors for `domain` — the single entry point used by the pipeline."""
     if not settings.pulse_api_key:
         raise PulseError("PULSE_API_KEY is not set")
 
@@ -67,27 +58,3 @@ def _detail(resp: httpx.Response) -> str:
         return str(resp.json())
     except Exception:
         return resp.text[:200]
-
-
-class DemoBlob:
-    """A bundled real response + its pre-baked AI enrichment."""
-
-    def __init__(self, raw: dict, enrichment: dict):
-        self.response = PulseResponse(**raw)
-        self.enrichment = enrichment
-
-
-def available_demo_domains() -> list[str]:
-    if not _FIXTURE_DIR.exists():
-        return []
-    return sorted(p.stem for p in _FIXTURE_DIR.glob("*.json"))
-
-
-def load_demo(domain: str = "") -> DemoBlob:
-    """Load the bundled fixture for `domain`, falling back to the first available."""
-    domains = available_demo_domains()
-    if not domains:
-        raise PulseError("No demo fixtures — run scripts/build_demo_fixture.py")
-    pick = domain if domain in domains else domains[0]
-    blob = json.loads((_FIXTURE_DIR / f"{pick}.json").read_text())
-    return DemoBlob(raw=blob["raw"], enrichment=blob.get("enrichment", {}))

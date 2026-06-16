@@ -1,15 +1,15 @@
-import type { Mode, Space } from './types'
+import type { Space } from './types'
 
 export interface ChatMessage {
   role: 'user' | 'assistant'
   content: string
 }
 
-export async function fetchLandscape(domain: string, mode: Mode): Promise<Space> {
+export async function fetchLandscape(domain: string): Promise<Space> {
   const res = await fetch('/api/landscape', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ domain, mode }),
+    body: JSON.stringify({ domain }),
   })
   if (!res.ok) {
     const detail = await res.json().catch(() => null)

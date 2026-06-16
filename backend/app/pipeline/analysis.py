@@ -94,7 +94,6 @@ def build_space(
     quarantined_count: int,
     cache_hit: bool,
     count: int,
-    mode: str,
 ) -> Space:
     field = _field(seed, peers)
     for c in field:
@@ -178,5 +177,4 @@ def build_space(
         notes=notes,
         cache_hit=cache_hit,
         count=count,
-        mode=mode,
     )
